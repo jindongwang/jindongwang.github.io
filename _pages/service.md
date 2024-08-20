@@ -13,10 +13,10 @@ nav: true
   - Associate editor, Journal of Computer Science and Technology (JCST) 
 - Conference organization:
   - Area Chair:
-    - KDD 2025 (research track)
+    - ICLR 2025
+    - KDD 2025, 2024 (research track)
     - ACML 2024
     - NeurIPS 2024 (main track, dataset and benchmark track)
-    - KDD 2024 (research track)
     - ACM Multimedia (MM) 2024
     - NeurIPS 2023 (dataset and benchmark track)
   - Senior PC:
