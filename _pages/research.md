@@ -26,19 +26,19 @@ Our research consists of the following topics with selected publications: [[View
 - **[ICML'24]** [CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents](https://arxiv.org/abs/2310.17512). Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie.
 - [arXiv'23] [Meta Semantic Template for Evaluation of Large Language Models](https://arxiv.org/abs/2310.01448). Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie.
 - **[ACM TIST'24]** [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie. [[code](https://github.com/MLGroupJLU/LLM-eval-survey)]
-- [arXiv'23] [PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528). Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie. [[code](https://github.com/microsoft/promptbench)]
+- **[ACM CCS'24 workshop]** [PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528). Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie. [[code](https://github.com/microsoft/promptbench)]
 - **[ACL'23 findings]** [GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective](https://arxiv.org/abs/2211.08073). Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang.
 - **[ICLR'23 large model workshop]** [On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095). Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, and Xing Xie.
 
 ##### Machine learning and large foundation models
 
-- [arXiv'24] [Slight Corruption in Pre-training Data Makes Better Diffusion Models](https://arxiv.org/abs/2405.20494). Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, Difan Zou, Masashi Sugiyama, Jindong Wang, Bhiksha Raj.
-- [arXiv'24] [On Catastrophic Inheritance of Large Foundation Models](https://arxiv.org/abs/2402.01909). Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang.
+- **[NeurIPS'24 Spotlight]** [Slight Corruption in Pre-training Data Makes Better Diffusion Models](https://arxiv.org/abs/2405.20494). Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, Difan Zou, Masashi Sugiyama, Jindong Wang, Bhiksha Raj.
+- **[DMLR'24]** [On Catastrophic Inheritance of Large Foundation Models](https://arxiv.org/abs/2402.01909). Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang.
 - **[ICML'24]** [Open-Vocabulary Calibration for Vision-Language Models](https://arxiv.org/abs/2402.04655). Shuoyuan Wang, Jindong Wang , Guoqing Wang, Bob Zhang, Kaiyang Zhou, and Hongxin Wei.
 - **[ACL'24 main]** [Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472). Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang , and Huajun Chen.
 - **[ICLR'24 spotlight]** [Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks](https://arxiv.org/abs/2309.17002). Hao Chen, Jindong Wang, Ankit Shah, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj.
 - **[ICLR'24]** [Supervised Knowledge Makes Large Language Models Better In-context Learners](https://arxiv.org/abs/2312.15918). Linyi Yang, Shuibai Zhang, Zhuohao Yu, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang. 
-- [arXiv'23] [ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning](https://arxiv.org/abs/2310.05143). Wang Lu, Hao Yu, Jindong Wang, Damien Teney, Haohan Wang, Yiqiang Chen, Qiang Yang, Xing Xie, Xiangyang Ji.
+- **[NeurIPS'24 FL workshop outstanding paper]** [ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning](https://arxiv.org/abs/2310.05143). Wang Lu, Hao Yu, Jindong Wang, Damien Teney, Haohan Wang, Yiqiang Chen, Qiang Yang, Xing Xie, Xiangyang Ji.
 - [**IJCV'23**] [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/abs/2304.01457). Yidong Wang, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang. [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
 - **[IEEE Data Engineering Bulletin'23]** FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning. Wang Lu, Xixu Hu, Jindong Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2302.13485)]
 
@@ -46,13 +46,13 @@ Open source:
   - [Project SearchAnything](https://github.com/Immortalise/SearchAnything): semantic local search.
 
 AI for social sciences:
-- [arXiv'24] [CulturePark: Boosting Cross-cultural Understanding in Large Language Models](https://arxiv.org/abs/2405.15145). Cheng Li, Damien Teney, Linyi Yang, Qingsong Wen, Xing Xie, Jindong Wang.
+- **[NeurIPS'24]** [CulturePark: Boosting Cross-cultural Understanding in Large Language Models](https://arxiv.org/abs/2405.15145). Cheng Li, Damien Teney, Linyi Yang, Qingsong Wen, Xing Xie, Jindong Wang.
 - **[ICML'24 Oral]** [Competeai: Understanding the competition behaviors in large language model-based agents](https://arxiv.org/abs/2310.17512). Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, and Xing Xie.
 - **[ICML'24]** [The good, the bad, and why: Unveiling emotions in generative ai](https://arxiv.org/abs/2312.11111). Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Xinyi Wang, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, and Xing Xie.
 - **[IJCAI'24]** [NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli](https://arxiv.org/abs/2405.02814). Xu Wang, Cheng Li, Yi Chang, Jindong Wang , and Yuan Wu.
 - **[ACL'24]** [MM-Soc: Benchmarking Multimodal Large Language Models in Social Media Platforms](https://arxiv.org/abs/2402.14154). Yiqiao Jin, Minje Choi, Gaurav Verma, Jindong Wang , and Srijan Kumar.
-- [arXiv'24] [CultureLLM: Incorporating Cultural Differences into Large Language Models](https://arxiv.org/abs/2402.10946). Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.
-- [arXiv'24] [AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://arxiv.org/abs/2406.12708). Yiqiao Jin, Qinlin Zhao, Yiyang Wang, Hao Chen, Kaijie Zhu, Yijia Xiao, Jindong Wang.
+- **[NeurIPS'24]** [CultureLLM: Incorporating Cultural Differences into Large Language Models](https://arxiv.org/abs/2402.10946). Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.
+- **[EMNLP'24 Oral]** [AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://arxiv.org/abs/2406.12708). Yiqiao Jin, Qinlin Zhao, Yiyang Wang, Hao Chen, Kaijie Zhu, Yijia Xiao, Jindong Wang.
 - [arXiv'23] [EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus](https://arxiv.org/abs/2307.11760). Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie.
 
 ##### Out-of-distribution (Domain) generalization and general machine learning
