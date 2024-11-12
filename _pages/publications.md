@@ -11,6 +11,7 @@ nav: true
 
 #### Preprints
 
+- CycleResearcher: Improving Automated Research via Automated Review. Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, Linyi Yang. [[arxiv](https://arxiv.org/abs/2411.00816)]
 - Scito2M: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Scientometric Analysis. Yiqiao Jin, Yijia Xiao, Yiyang Wang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2410.09510)]
 - Meta Semantic Template for Evaluation of Large Language Models. Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie. [[arxiv](https://arxiv.org/abs/2310.01448)]
 - Frustratingly Easy Model Generalization by Dummy Risk Minimization. Juncheng Wang, Jindong Wang, Xixu Hu, Shujun Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2308.02287)]
