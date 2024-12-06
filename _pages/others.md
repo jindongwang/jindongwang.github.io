@@ -7,17 +7,18 @@ nav: true
 
 #### Interns at MSRA
 
-Current interns:
-
 - 2024.09 -- present, Miaomiao Li, master @ Institute of Software, CAS.
 - 2024.05 -- present, Shudong Liu, PhD @ U. Macao.
 
 Alumni:
-- 2023.08 -- 2024.06, Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
+- 2023.08 -- 2024.06, [Qinlin Zhao](https://www.linkedin.com/in/qinlin-zhao-3a51292b2/), MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
+  - Topics: agent and social science.
   - Outcomes during internship: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910)
-- 2023.09 -- 2024.05, Cheng Li, master @ Institute of Software, CAS.
-  - Ourcomes during internship: [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [NegativePrompt (IJCAI'24)](https://arxiv.org/abs/2405.02814), [CultureLLM](https://arxiv.org/abs/2402.10946), [CulturePark](https://arxiv.org/abs/2405.15145)
+- 2023.09 -- 2024.05, [Cheng Li](https://scholar.google.com/citations?user=083GCIwAAAAJ), master @ Institute of Software, CAS.
+  - Topics: LLM and psychology, culture bias
+  - Ourcomes during internship: [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [NegativePrompt (IJCAI'24)](https://arxiv.org/abs/2405.02814), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2402.10946), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [MentalArena](https://arxiv.org/abs/2410.06845)
 - 2023.03 -- 2024.04, [Kaijie Zhu](https://scholar.google.com/citations?user=g75dFLYAAAAJ&hl=zh-CN), master @ Institute of Automation, CAS. Now: Phd @ UCSB.
+  - Topics: LLM evaluation
   - Outcomes during internship: [DyVal 2 (ICML'24)](https://arxiv.org/abs/2402.14865), [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
 - 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continues his Ph.D.
   - Topics: robustness of foundation models.
@@ -55,19 +56,4 @@ Alumni:
 - Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
 - Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
 
-#### Academic collaborators
 
-- Philip S. Yu, University of Illinois Chicago
-- Qiang Yang, Hong Kong University of Science and Technology
-- Yue Zhang, Westlake University.
-- Sinno Pan, The Chinese University of Hong Kong
-- Bhiksha Raj, Carnegie Mellon University
-- Masashi, Sugiyama, RIKEN and University of Tokyo.
-- Takahiro Shinozaki, Tokyo Institute of Technology.
-- Bernt Schiele, Max Planck Institute for Informatics.
-- Han Yu, Nanyang Technological University.
-- Janice Yixuan Zhang, William & Mary
-- Haohan Wang, University of Illinois Urbana-Champaign.
-- Diyi Yang, Stanford University.
-- Neil Zhenqiang Gong, Duke University.
-- Haoliang Li, City University of Hong Kong.
