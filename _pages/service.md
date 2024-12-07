@@ -9,19 +9,19 @@ nav: true
 
 - Journal editorship:
   - Associate editor, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - Guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
+  - Lead guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
   - Associate editor, Journal of Computer Science and Technology (JCST) 
 - Conference organization:
   - Area Chair:
+    - ICML 2025
     - ICLR 2025
+    - NeurIPS 2024, 2023 (main track, dataset and benchmark track)
     - KDD 2025, 2024 (research track)
     - ACML 2024
-    - NeurIPS 2024 (main track, dataset and benchmark track)
     - ACM Multimedia (MM) 2024
-    - NeurIPS 2023 (dataset and benchmark track)
   - Senior PC:
     - AAAI 2025, 2024, 2023
-    - IJCAI 2024, 2023
+    - IJCAI 2025, 2024, 2023
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
 - Conference PC member / reviewer: 
