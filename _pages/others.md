@@ -7,6 +7,12 @@ nav: true
 
 #### Interns at MSRA
 
+- 2024.09 -- present, Jio Oh, master @ KAIST, South Korea.
+  - Topics: LLM.
+  - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
+- 2024.09 -- present, Soyeon Kim, PhD @ KAIST, South Korea.
+  - Topics: LLM evaluation.
+  - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
 - 2024.09 -- present, Miaomiao Li, master @ Institute of Software, CAS.
 - 2024.05 -- present, Shudong Liu, PhD @ U. Macao.
 
