@@ -42,6 +42,7 @@ nav: true
 
 #### Awards
 
+- Outstanding Paper Award, NeurIPS 2024 workshop on Federated Foundation Models. 2024.
 - 2024 AI Rising Star (awarded by KAUST AI Initiative headed by Prof. Jürgen Schmidhuber) [[Web](https://cemse.kaust.edu.sa/ai/aii-symp-2024)]
 - World's Top 2% Scientist by Stanford University, 2023. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
 - AI 2000 Most Influential Scholars by AMiner, 2022.
