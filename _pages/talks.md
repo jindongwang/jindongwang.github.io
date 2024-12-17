@@ -16,6 +16,7 @@ nav: true
 
 #### Invited talks
 
+- **Understanding and improving foundation models**, at From Theory to Practice: Workshop on Large Language and Foundation Models (WLLFM'24), IEEE BigData Conference 2024. [[website](https://sites.google.com/view/wllfm24/home?authuser=1)]
 - **Understanding the catastrophic inheritance of large foundation models**, at 2024 International Workshop on Risk and Governance of Generative Artificial Intelligence, Hong Kong, Nov. 2024. [[website](https://www.ln.edu.hk/sds/news-and-events-v0/2024-international-workshop-on-risk-and-governance-of-gai)]
 - **Dynamic evaluation of large language models**, at The First International Conference on Cognitive Psychological Assessment and Enhancement, Jul. 2024. [[website](https://psychometrics.bnu.edu.cn/iccpae2024/index.htm)]
 - **LLM evaluation and interdisciplinary research**, at Sun Yat-Sen University. Jun. 2024.
