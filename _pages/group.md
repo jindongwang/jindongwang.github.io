@@ -24,6 +24,8 @@ To be added.
 
 #### Previous Interns at MSRA
 
+Summary: 18 interns in 5.5 years; 5 female, 13 male; average number of top papers per person: 2.
+
 - 2024.09 -- 2024.12, Jio Oh, master @ KAIST, South Korea.
   - Topics: LLM.
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
@@ -34,6 +36,7 @@ To be added.
   - Topics: Bias in LLM.
 - 2024.05 -- 2024.12, Shudong Liu, PhD @ U. Macau.
   - Topics: Culture and vision language models.
+  - Outcomes during internship: [CultuerVLM](https://arxiv.org/abs/2501.01282).
 - 2024.05 -- 2024.09, Zhiquan Tan, PhD @ Tsinghua University.
   - Topics: Evaluation of LLM.
   - Outcomes during internship: [Self-evaluation](https://arxiv.org/abs/2406.06140)
