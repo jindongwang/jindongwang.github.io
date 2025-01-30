@@ -34,12 +34,17 @@ To be added.
   - Topics: Bias in LLM.
 - 2024.05 -- 2024.12, Shudong Liu, PhD @ U. Macau.
   - Topics: Culture and vision language models.
+- 2024.05 -- 2024.09, Zhiquan Tan, PhD @ Tsinghua University.
+  - Topics: Evaluation of LLM.
+  - Outcomes during internship: [Self-evaluation](https://arxiv.org/abs/2406.06140)
 - 2023.08 -- 2024.06, [Qinlin Zhao](https://www.linkedin.com/in/qinlin-zhao-3a51292b2/), MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
   - Topics: agent and social science.
   - Outcomes during internship: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910)
 - 2023.09 -- 2024.05, [Cheng Li](https://scholar.google.com/citations?user=083GCIwAAAAJ), master @ Institute of Software, CAS.
   - Topics: LLM and psychology, culture bias
   - Ourcomes during internship: [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [NegativePrompt (IJCAI'24)](https://arxiv.org/abs/2405.02814), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2402.10946), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [MentalArena](https://arxiv.org/abs/2410.06845)
+- 2024.01 -- 2024.05, Mingxuan Xia, PhD @ Zhejiang University.
+  - Topic: LLM evaluation
 - 2023.03 -- 2024.04, [Kaijie Zhu](https://immortalise.github.io/), master @ Institute of Automation, CAS. Now: Phd @ UCSB.
   - Topics: LLM evaluation
   - Outcomes during internship: [DyVal 2 (ICML'24)](https://arxiv.org/abs/2402.14865), [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
