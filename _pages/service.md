@@ -19,13 +19,14 @@ nav: true
     - NeurIPS 2025, 2024, 2023
     - ICML 2025
     - ICLR 2025
-    - KDD 2025, 2024 (research track)
+    - KDD 2026, 2025, 2024 (research track)
     - ACM Multimedia (MM) 2024
     - ACML 2025, 2024
     - ACL/ARR 2025
   - Senior PC:
-    - AAAI 2025, 2024, 2023
+    - AAAI 2026, 2025, 2024, 2023
     - IJCAI 2025, 2024, 2023
+    - CIKM 2025
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
 
