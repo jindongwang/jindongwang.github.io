@@ -13,6 +13,7 @@ nav: true
 
 #### Conference organization
   - Workshop organizer:
+    - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining (TrustKDD)
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - Area Chair:
