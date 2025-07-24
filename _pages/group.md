@@ -12,8 +12,8 @@ nav: true
 
 #### PhD Students
 
-- [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master @ University of Rochester.
-- [Zhaolong Su](https://rollingsu.github.io/), bachelor @ Beijing University of Technology.
+- [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master in University of Rochester --> PhD in William & Mary.
+- [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
 
 #### Postdocs and Visting Scholars
 
@@ -35,7 +35,7 @@ nav: true
 
 #### Previous Interns at MSRA
 
-Overall: 5.5 years, 18 interns (5 female), 2 papers/per person/per 6 months.
+Overall: 5.5 years, 18 interns (5 female), 2 papers/per person/per 6 months. These great interns helped my citations grow from 1000 in 2019 to 20000 in 2025.
 
 - 2024.09 -- 2024.12, Jio Oh, master @ KAIST, South Korea.
   - Topics: LLM.
@@ -93,9 +93,9 @@ Overall: 5.5 years, 18 interns (5 female), 2 papers/per person/per 6 months.
 #### Collaborating students
 
 - Ph.D student at Georgia Institute of Technology: Yiqiao Jin. [AgentReview](https://arxiv.org/abs/2406.12708)
-- Ph.D students at ICT, CAS: 
-  - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at ICT, CAS.
+- Ph.D students at CAS: 
+  - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at CAS.
   - Yuxin Zhang (TKDE * 2). Now: engineer at StateGrid.
-- Ph.D student at Institute of Acoustics, CAS: Han Zhu (ICASSP * 2, TASLP).
-- Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
-- Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
+  - Han Zhu (ICASSP * 2, TASLP). Now: Xiaomi.
+  - YiFan Zhang (KDD'23).
+- Ph.D students at University of Tokyo: Yivan Zhang, Wei Wang (ICLR'25).
