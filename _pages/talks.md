@@ -7,11 +7,12 @@ nav: true
 
 #### Course at William & Mary
 
-- Spring 2025: DATA440/491--Trustworthy AI. [[website](https://go.jd92.wang/spring25)]
+- Fall 2025: **Generative AI** (DSCI 446/622). 
+- Spring 2025: **Trustworthy AI** (DATA 440/491). [[website](https://go.jd92.wang/spring25)]
 
 #### Tutorials
 
-- CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**. To be held.
+- CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**, June, 2025. [[Website&Slides](https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/)]
 - AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025. [[Website&Slides](https://llm-understand.github.io/)]
 - AAAI 2025: **Unified Semi-Supervised Learning with Foundation Models**, Feb., 2025. [[Website&Slides](https://unified-ssl.github.io/)]
 - AAAI 2024: **Out-of-Distribution Generalization in Time Series**, Feb., 2024. [[Website&Slides](https://ood-timeseries.github.io/)]
@@ -21,6 +22,8 @@ nav: true
 
 #### Invited talks
 
+- **Multi-agent systems in ambient settings**, at ICML social event, Vancouver, July 2025. [[website](https://lu.ma/xwlm5e7t)]
+- **AgentReview: Exploring LLM Agents for Peer Review Dynamics**, at AI Co-scientist social @ ICLR 2025, Singapore, April 2025. [[website](http://ai-researcher.cn/social-iclr-2025)]
 - **Understanding and improving foundation models**, at Virginia Tech. Apr. 2025.
 - **Can AI feel, trade, and discriminate? Insights on emotions, economics, culture, and bias**, at University of Chicago. Feb. 2025.
 - **Understanding and improving foundation models**, online at University of Oklahoma. Jan. 2025.

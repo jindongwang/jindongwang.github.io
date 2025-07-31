@@ -13,7 +13,7 @@ nav: true
 
 #### Conference organization
   - Workshop organizer:
-    - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining (TrustKDD)
+    - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining ([TrustKDD](https://le-wu.com/cikm25-trustkdd-workshop/))
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - Area Chair:
@@ -28,8 +28,8 @@ nav: true
     - AAAI 2026, 2025, 2024, 2023
     - IJCAI 2025, 2024, 2023
     - CIKM 2025
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
+  - Publicity co-chair, IJCAI 2019
+  - Session chair, ICDM 2019
 
 #### Program / grant reviewer:
   - Oak Ridge Associated Universities (ORAU)

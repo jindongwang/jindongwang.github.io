@@ -9,7 +9,7 @@ nav: true
 <img src="../assets/img/research.png" style="width: 85%"/>
 </center>
 
-The long-term research goal is to build understand, evaluate, and enhance modern AI models, such as pre-trained and large foundation models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal. The following lists some of the key research focuses and my full publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate).
+The long-term research goal is to understand and improve modern AI models, such as pre-trained and large foundation models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal. The following lists some of the key research focuses and my full publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate).
 
 - **Machine learning with foundation models:** I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: machine learning with foundation models, robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications. How to efficiently use, adapt, and align large foundation models? How to enhance their robustness and reliability? How to make them more interpretable? Recently, I created a new research topic named *catastrophic inheritance* ([Vision paper (DMLR'24)](https://arxiv.org/abs/2402.01909)):
     - [Noisy model learning (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17002), [Noisy diffusion pre-training (NeurIPS'24 spotlight)](https://arxiv.org/abs/2405.20494), [Diversify (TPAMI'24)](https://arxiv.org/abs/2308.02282)
@@ -17,6 +17,7 @@ The long-term research goal is to build understand, evaluate, and enhance modern
     - Related papers: [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [DyVal2 (ICML'24)](https://arxiv.org/abs/2402.14865), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910), [PromptRobust (CCS LAMPS)](https://arxiv.org/abs/2306.04528)
 - **Intersection of generative AI and social sciences:** How to measure the impact of generative AI on different fields? How to use powerful AI models to assist interdisciplinary research? How to use existing knowledge in social sciences to help us better understand AI models?
     - Related papers: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [AgentReview (EMNLP'24 Oral)](https://arxiv.org/abs/2406.12708)
+- **Previous selected papers on Trustworthy AI:** [FlexMatch (NeurIPS'21)](https://arxiv.org/abs/2110.08263), [Diversify (ICLR'23)](https://arxiv.org/abs/2308.02282), [AdaRNN (CIKM'21)](https://arxiv.org/abs/2108.04443), [MEDA (MM'18)](https://jd92.wang/assets/files/a11_mm18.pdf).
 
 #### Media Coverage
 
