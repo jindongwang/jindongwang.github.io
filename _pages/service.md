@@ -5,14 +5,14 @@ permalink: /service/
 nav: true
 ---
 
-#### Journal editorship
+#### Journal
 
   - Associate editor, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - Lead guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
   - Associate editor, Journal of Computer Science and Technology (JCST) 
 
-#### Conference organization
-  - Workshop organizer:
+#### Conference
+  - Workshop Organizer:
     - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining ([TrustKDD](https://le-wu.com/cikm25-trustkdd-workshop/))
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
@@ -20,7 +20,7 @@ nav: true
     - NeurIPS 2025, 2024, 2023
     - ICML 2025
     - ICLR 2025
-    - KDD 2026, 2025, 2024 (research track)
+    - KDD 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
     - ACML 2025, 2024
     - ACL/ARR 2025

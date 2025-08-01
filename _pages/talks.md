@@ -22,8 +22,8 @@ nav: true
 
 #### Invited talks
 
-- **Multi-agent systems in ambient settings**, at ICML social event, Vancouver, July 2025. [[website](https://lu.ma/xwlm5e7t)]
-- **AgentReview: Exploring LLM Agents for Peer Review Dynamics**, at AI Co-scientist social @ ICLR 2025, Singapore, April 2025. [[website](http://ai-researcher.cn/social-iclr-2025)]
+- **Multi-agent Systems in Ambient Settings**, at ICML social event, Vancouver, July 2025. [[website](https://lu.ma/xwlm5e7t)]
+- **AgentReview: Exploring LLM Agents for Peer Review Dynamics**, at ICLR 2025 AI Co-scientist social event, Singapore, April 2025. [[website](http://ai-researcher.cn/social-iclr-2025)]
 - **Understanding and improving foundation models**, at Virginia Tech. Apr. 2025.
 - **Can AI feel, trade, and discriminate? Insights on emotions, economics, culture, and bias**, at University of Chicago. Feb. 2025.
 - **Understanding and improving foundation models**, online at University of Oklahoma. Jan. 2025.
@@ -51,9 +51,8 @@ nav: true
 #### Invited Course
 
 - **Transfer learning and large languaeg models**, at City University of Hong Kong. 2023.
-- **Transfer learning**, at Institute of Computing Technology, CAS. 2023.
-- **Transfer learning**, at Tsinghua University. Dec. 2019. (THU's
-                    advanced machine learning course for EE graduates) [[Class photo](http://jd92.wang/image/img_thu.png)]
+- **Transfer learning**, at Chinese Academy of Sciences. 2023.
+- **Transfer learning**, at Tsinghua University. Dec. 2019. [[Class photo](http://jd92.wang/image/img_thu.png)]
 - **Transfer learning**, at Leiphone, online. Nov. 4, 2017.
 - **On machine learning**, at AI Salon at Shanghai Jiao Tong University, Shanghai, China. Sep. 16, 2017. [[PDF](http://jd92.wang/assets/files/l10_mlsjtu.pdf)] [[Photo](http://jd92.wang/assets/image/20170916.jpg)]
 - **Feature engineering in machine learning**, at Zhihu Live, online. Mar. 19, 2017. [[PDF]](http://jd92.wang/assets/files/l07_zhihu_fe.pdf) [[Visit Live](https://www.zhihu.com/lives/819543866939174912)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
