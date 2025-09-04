@@ -6,6 +6,8 @@ nav: true
 ---
 
 #### After PhD
+- Cohere Labs Catalyst Grant. By Cohere Labs. 2025.
+- Faculty Travel Grant. By William & Mary. 2025.
 - William & Mary Faculty Reearch Award. 2025.
 - Microsoft Accelerate Foundation Model Research (AFMR) Award. 2025.
 - Best Paper Award, AAAI 2025 workshop on Preparaing Good Data for Generative AI. 2025.
