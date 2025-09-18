@@ -13,7 +13,6 @@ nav: true
 
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
 - Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]
-- Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach. Yuchen Wu, Edward Sun, Kaijie Zhu, Jianxun Lian, Jose Hernandez-Orallo, Aylin Caliskan, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2505.18882)] [[website](https://chibadaisuki.github.io/personalized-safety.io/)]
 - Understanding and Mitigating the Bias Inheritance in LLM-based Data Augmentation on Downstream Tasks. Miaomiao Li, Hao Chen, Yang Wang, Tingyuan Zhu, Weijia Zhang, Kaijie Zhu, Kam-Fai Wong, Jindong Wang. [[arxiv](https://arxiv.org/abs/2502.04419)]
 - CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries. Shudong Liu, Yiqiao Jin, Cheng Li, Derek F. Wong, Qingsong Wen, Lichao Sun, Haipeng Chen, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2501.01282)]
 - MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders. Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[arxiv](https://arxiv.org/abs/2410.06845)]
