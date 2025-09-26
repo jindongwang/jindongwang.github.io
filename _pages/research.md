@@ -32,11 +32,12 @@ The long-term research goal is to understand and improve modern AI models, such 
 
 #### Funding and Grants
 
+- Principal Investigator. Google Cloud Teaching Credits. 2025 - 2026.
 - Principal Investigator. Modal academic compute grant. 2025 - 2026.
 - Principal Investigator. Cohere Labs Catalyst Grant. 2025 - 2026.
 - Principal Investigator. William & Mary Faculty Travel Grant. 2025.
-- Principal Investigator. William & Mary Faculty Research Award. 2025 - 2026.
+- Principal Investigator. William & Mary Faculty Research Award. 2025.
 - Principal Investigator. Microsoft [Accelerate Foundation Model Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) grant. 2025.02 -- 2025.06.
 - Co-Principal Investigator. "Mitigating Ethical AI Threats: Dynamic Benchmarks for Securing Multimodal Social Intelligence in Large Language Models(LLMs)". Awarded by The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
 
-<img src="../assets/img/fund-supporters.jpg" style="width: 70%"/>
+<img src="../assets/img/funding.jpg" style="width: 60%"/>
