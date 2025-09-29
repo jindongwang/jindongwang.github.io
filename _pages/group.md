@@ -16,7 +16,7 @@ nav: true
   - Topics: LLM agent, general LLM evaluation
   - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
 - 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
-  - Topics: Foundation model learning, unified multi-model training
+  - Topics: Foundation model learning, unified multimodel training
 
 #### Postdocs and Visting Scholars
 
@@ -25,21 +25,21 @@ nav: true
 
 #### Interns
 
-- 2025.01 -- present, [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
-  - Topics: LLM enhancement, AI for education.
-  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), Personalized education.
 - 2025.01 -- present, [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
-- 2025.02 -- present, [Chika Maduabuchi](https://chikap421.github.io/), RA @ MIT.
+- 2025.02 -- present, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
   - Topics: Catastrophic inheritance, diffusion models
   - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
 - 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
-- 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
-  - Topics: LLM agent.
-  - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
-- 2025.04 -- present, Hanzhong Zhang, RA @ William & Mary.
+- 2025.04 -- present, Hanzhong Zhang.
+  - Topics: LLM and society.
+  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366)
+- 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
+  - Topics: LLM understanding and evaluation.
+  - Outcomes: KnowledgeSmith
+
 
 [Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
 
@@ -48,8 +48,17 @@ nav: true
 - [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: Google Deepmind.
 - [Kaijie Zhu](https://immortalise.github.io/), PhD student @ UCSB.
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
+- [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
+  - Topics: LLM enhancement, AI for education.
+  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), Personalized education.
 
-#### Former Interns at MSRA
+#### Previous Interns
+
+- 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
+  - Topics: LLM agent.
+  - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
+
+#### Previous Interns at MSRA (2019 -- 2024)
 
 Overall: 5.5 years, 18 interns (5 female), 1 top-tier paper/per person/per 6 months. These great interns helped my citations grow from 1000 in 2019 to 20000 in 2025.
 
