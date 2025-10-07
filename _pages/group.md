@@ -38,7 +38,7 @@ nav: true
   - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366)
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
-  - Outcomes: KnowledgeSmith
+  - Outcomes: [KnowledgeSmith](https://www.arxiv.org/abs/2510.02392)
 
 
 [Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
