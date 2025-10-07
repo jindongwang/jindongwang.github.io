@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- Google Cloud Research Credit Award. By Google Cloud. 2025.
 - Cohere Labs Catalyst Grant. By Cohere Labs. 2025.
 - Faculty Travel Grant. By William & Mary. 2025.
 - William & Mary Faculty Reearch Award. 2025.
