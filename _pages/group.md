@@ -23,14 +23,11 @@ nav: true
 - 2025.07 -- 2025.09, Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
 
 
-#### Interns
+#### Current Interns
 
 - 2025.01 -- present, [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
-- 2025.02 -- present, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
-  - Topics: Catastrophic inheritance, diffusion models
-  - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
 - 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
 - 2025.04 -- present, Hanzhong Zhang.
@@ -39,6 +36,9 @@ nav: true
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
   - Outcomes: [KnowledgeSmith](https://www.arxiv.org/abs/2510.02392)
+- 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
+  - Topics: LLM agent, safety.
+  - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 
 
 [Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
@@ -54,6 +54,9 @@ nav: true
 
 #### Previous Interns
 
+- 2025.02 -- 2025.09, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
+  - Topics: Catastrophic inheritance, diffusion models
+  - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
 - 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)

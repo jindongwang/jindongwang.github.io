@@ -21,7 +21,7 @@ The long-term research goal is to understand and improve modern AI models, such 
 
 #### Media Coverage
 
-- **NeurIPS 2024 with Jindong Wang and Steven Euijong Whang**, Microsoft Research Podcast. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)]
+- **NeurIPS 2024 with Jindong Wang and Steven Euijong Whang**, Microsoft Research Podcast. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)] [[Youtube](https://www.youtube.com/watch?v=2l0IBKqliOc)]
 - **The Answer To Why Emotionally Worded Prompts Can Goose Generative AI Into Better Answers And How To Spur A Decidedly Positive Rise Out Of AI**, by **Forbes**. November 2023. [[Webpage](https://www.forbes.com/sites/lanceeliot/2023/11/11/the-answer-to-why-emotionally-worded-prompts-can-goose-generative-ai-into-better-answers-and-how-to-spur-a-decidedly-positive-rise-out-of-ai/?sh=38038fb137e5)]
 - **CulturePark for low-resource large language models**, by **MIT Technology Review**. June 2024. [[Webpage](https://www.mittrchina.com/news/detail/13596)]
 - **Epic and Generative AI**, by Epic. December 2024. [[Webpage](https://www.epic.com/epic/post/cool-stuff-now-epic-and-generative-ai/)]
