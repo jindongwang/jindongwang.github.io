@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- AMD University Program AI&HPC Award. By AMD. 2025.
 - Google Cloud Research Credit Award. By Google Cloud. 2025.
 - Cohere Labs Catalyst Grant. By Cohere Labs. 2025.
 - Faculty Travel Grant. By William & Mary. 2025.

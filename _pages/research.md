@@ -32,6 +32,7 @@ The long-term research goal is to understand and improve modern AI models, such 
 
 #### Funding and Grants
 
+- Principal Investigator. AMD University Program AI&HPC Award. 2025 - 2026.
 - Principal Investigator. Google Cloud Research Credit Award. 2025 - 2026.
 - Principal Investigator. Modal academic compute grant. 2025 - 2026.
 - Principal Investigator. Cohere Labs Catalyst Grant. 2025 - 2026.
