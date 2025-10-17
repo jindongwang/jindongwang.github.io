@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- Google DeepMind Unrestricted Gift Award. By Google. 2025.
 - AMD University Program AI&HPC Award. By AMD. 2025.
 - Google Cloud Research Credit Award. By Google Cloud. 2025.
 - Cohere Labs Catalyst Grant. By Cohere Labs. 2025.
