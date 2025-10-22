@@ -13,6 +13,7 @@ nav: true
 
 #### Conference
   - Workshop Organizer:
+    - NeurIPS 2025 workshop: PersonaLLM: Workshop on LLM Persona Modeling ([PersonaLLM](https://personallmworkshop.github.io/))
     - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining ([TrustKDD](https://le-wu.com/cikm25-trustkdd-workshop/))
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
