@@ -20,7 +20,7 @@ jdw [at] wm.edu, jindongwang [at] outlook.com<br>
 Integrated Science Center 2273, Williamsburg, VA<br>
 [Google scholar](https://scholar.google.com/citations?&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) | [Twitter/X](https://twitter.com/jd92wang) | [LinkedIn](https://www.linkedin.com/in/jindong-wang/) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv)
 
-**PhD and intern application:** You can apply for [PhD](https://jd92wang.notion.site/Professor-Jindong-Wang-from-William-Mary-is-Recruiting-Fully-Funded-PhD-Students-Interns-for-Fall-12eb4ea70d8e803cadebd1a9b75fd739?pvs=4) or [Internship or collaboration](https://forms.gle/zRcWP49qF9aR1VXW8). [[Chinese blog](https://zhuanlan.zhihu.com/p/4827065042)]
+**PhD and intern application:** You can apply for [2026 PhD](https://jd92wang.notion.site/Prof-Jindong-Wang-is-recruiting-fully-funded-PhD-students-Fall-2026-295b4ea70d8e8046949bc577a89a740d?source=copy_link) or [Internship or collaboration](https://forms.gle/zRcWP49qF9aR1VXW8). [[Chinese blog](https://zhuanlan.zhihu.com/p/1964801935937868094)]
 
 **Research interest:** (See this [page](https://jd92.wang/research/) for more details)
 - *General ML and AI*: To make AI systems more robust, trustworthy, and responsible. Key areas: robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications. These days, I'm particularly interested in ML with foundation models.
