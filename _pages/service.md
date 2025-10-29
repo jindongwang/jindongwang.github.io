@@ -11,6 +11,9 @@ nav: true
   - Lead guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
   - Associate editor, Journal of Computer Science and Technology (JCST) 
 
+#### Academic Program
+  - Academic director, International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
+
 #### Conference
   - Workshop Organizer:
     - NeurIPS 2025 workshop: PersonaLLM: Workshop on LLM Persona Modeling ([PersonaLLM](https://personallmworkshop.github.io/))
