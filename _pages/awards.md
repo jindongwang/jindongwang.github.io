@@ -6,26 +6,26 @@ nav: true
 ---
 
 #### After PhD
-- Amazon Research Award. 2025.
-- Google Research Award. 2025.
-- AMD University Program AI&HPC Award. By AMD. 2025.
-- Google Cloud Research Credit Award. By Google Cloud. 2025.
-- Cohere Labs Catalyst Grant. By Cohere Labs. 2025.
-- Faculty Travel Grant. By William & Mary. 2025.
-- William & Mary Faculty Reearch Award. 2025.
-- Microsoft Accelerate Foundation Model Research (AFMR) Award. 2025.
+- Amazon Research Award 2025.
+- Google Research Award 2025.
+- AMD University Program AI&HPC Award 2025.
+- Cohere Labs Catalyst Grant 2025.
+- Faculty Travel Grant 2025.
+- William & Mary Faculty Research Award 2025.
+- Microsoft Accelerate Foundation Model Research (AFMR) Award 2025.
 - Best Paper Award, AAAI 2025 workshop on Preparaing Good Data for Generative AI. 2025.
 - Outstanding Paper Award, NeurIPS 2024 workshop on Federated Foundation Models. 2024.
 - Rising Star in AI, awarded by KAUST AI Initiative headed by Prof. Jürgen Schmidhuber. [[Web](https://cemse.kaust.edu.sa/ai/aii-symp-2024)]
-- World's Top 2% Scientist by Stanford University, since 2022. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
-- AI 2000 Most Influential Scholars by AMiner, since 2022.
+- World's Top 2% Scientist by Stanford University, 2022 - 2025. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
+- AI 2000 Most Influential Scholars by AMiner, 2022 -2025.
 - Outstanding reviewer. NeurIPS 2022.
 - Innovation award. IJCAI federated learning workshop 2022.
 - Distinguished doctoral thesis award in Chinese Academy of Sciences 2020.
 - Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
-- Outstanding Scholarship of CAS president 2019.
+
 
 #### During PhD and Bachelor
+- Outstanding Scholarship of CAS president 2019.
 - Special scholarship of ICT CAS 2019.
 - Student Scholarship. AAAI Conference on Artificial Intelligence (AAAI) 2019.
 - Student Travel Grant. ACM International Conference on Multimedia (ACMMM) 2018.
