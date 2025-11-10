@@ -39,9 +39,9 @@ nav: true
 <details>
 <summary>Previous preprints</summary>
 <ul>
-<li>
-- Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Weiran Huang. [a href="https://arxiv.org/abs/2406.06140" target="_blank">arxiv</a>]
-</li>
+  <li>
+    Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Weiran Huang. [<a href="https://arxiv.org/abs/2406.06140" target="_blank">arxiv</a>]
+  </li>
   <li>
     Meta Semantic Template for Evaluation of Large Language Models. Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie. [<a href="https://arxiv.org/abs/2310.01448" target="_blank">arxiv</a>]
   </li>
