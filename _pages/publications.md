@@ -9,6 +9,22 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)] | [[DBLP](https://dblp.org/pid/19/2969-1.html)] | [[View by topic](https://jd92.wang/research/)]
 
+
+#### Seleted Publications
+
+- **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1300+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
+- **[ICML'24 Oral (Top 3%)]** CompeteAI: Understanding Competition Dynamics of LLM-based Agents.
+- **[NeurIPS'24 Spotlight (Top 5%)]** Slight Corruption in Pre-training Data Makes Better Diffusion Models.
+- **[IEEE TPAMI'25]** Impact of Noisy Supervision in Foundation Model Learning.
+- **[ICLR'24 Spotlight (Top 5%)]** DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks. 
+- **[ICLR'24 Spotlight (Top 5%)]** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks.
+- **[ICML'24]** The good, the bad, and why: Unveiling emotions in generative ai. 
+- **[IEEE TPAMI'24]** DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization.
+- **[CIKM'21]** Adarnn: Adaptive learning and forecasting of time series. **(Paperdigest most influencial CIKM paper)**
+- **[ACM MM'18]** Visual domain adaptation with manifold embedded distribution alignment. **(800 Citations; 2nd most cited paper in MM'18)**
+- **[ICDM'17]** Balanced distribution adaptation for transfer learning. **(700 Citations; ost cited paper in ICDM'17)**
+
+
 #### Recent Preprints
 
 - KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning. Yinyi Luo, Zhexian Zhou, Hao Chen, Kai Qiu, Marios Savvides, Yixuan Li, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2510.02392)] [[code](https://github.com/AIFrontierLab/KnowledgeSmith.git)]
@@ -18,11 +34,14 @@ nav: true
 - CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries. Shudong Liu, Yiqiao Jin, Cheng Li, Derek F. Wong, Qingsong Wen, Lichao Sun, Haipeng Chen, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2501.01282)]
 - MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders. Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[arxiv](https://arxiv.org/abs/2410.06845)]
 - On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
-- Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Weiran Huang. [[arxiv](https://arxiv.org/abs/2406.06140)]
+
 
 <details>
 <summary>Previous preprints</summary>
 <ul>
+<li>
+- Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Weiran Huang. [a href="https://arxiv.org/abs/2406.06140" target="_blank">arxiv</a>]
+</li>
   <li>
     Meta Semantic Template for Evaluation of Large Language Models. Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie. [<a href="https://arxiv.org/abs/2310.01448" target="_blank">arxiv</a>]
   </li>
@@ -53,7 +72,7 @@ nav: true
 
 </div>
 
-#### Papers
+#### All Papers
 
 <div class="publications">
 
