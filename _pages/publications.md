@@ -3,11 +3,11 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 nav: true
 ---
 
-[[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)] | [[DBLP](https://dblp.org/pid/19/2969-1.html)] | [[View by topic](https://jd92.wang/research/)]
+[[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)]  [[DBLP](https://dblp.org/pid/19/2969-1.html)]  [[View by topic](https://jd92.wang/research/)]
 
 
 #### Seleted Publications
@@ -22,7 +22,7 @@ nav: true
 - **[IEEE TPAMI'24]** DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization.
 - **[CIKM'21]** Adarnn: Adaptive learning and forecasting of time series. **(Paperdigest most influencial CIKM paper)**
 - **[ACM MM'18]** Visual domain adaptation with manifold embedded distribution alignment. **(800 Citations; 2nd most cited paper in MM'18)**
-- **[ICDM'17]** Balanced distribution adaptation for transfer learning. **(700 Citations; ost cited paper in ICDM'17)**
+- **[ICDM'17]** Balanced distribution adaptation for transfer learning. **(700 Citations; most cited paper in ICDM'17)**
 
 
 #### Recent Preprints
@@ -36,7 +36,7 @@ nav: true
 - On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
 
 
-<details>
+<!-- <details>
 <summary>Previous preprints</summary>
 <ul>
   <li>
@@ -59,7 +59,7 @@ nav: true
   </li>
 </ul>
 
-</details>
+</details> -->
 
 
 #### Books
