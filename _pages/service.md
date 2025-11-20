@@ -15,14 +15,14 @@ nav: true
   - Academic director, International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
 
 #### Conference
-  - Workshop Organizer:
+  - Workshop Organizer/Chair:
     - NeurIPS 2025 workshop: PersonaLLM: Workshop on LLM Persona Modeling ([PersonaLLM](https://personallmworkshop.github.io/))
     - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining ([TrustKDD](https://le-wu.com/cikm25-trustkdd-workshop/))
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - Area Chair:
     - NeurIPS 2025, 2024, 2023
-    - ICML 2025
+    - ICML 2026, 2025
     - ICLR 2026, 2025
     - KDD 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
