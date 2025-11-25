@@ -17,6 +17,7 @@ nav: true
   - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
 - 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
   - Topics: Foundation model learning, unified multimodel training
+  - Outcomes: [UniGame](https://arxiv.org/abs/2511.19413)
 
 #### Postdocs and Visting Scholars
 
