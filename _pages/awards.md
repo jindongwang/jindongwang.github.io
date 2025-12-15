@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- NVIDIA Academic Research Grant 2025.
 - Amazon Research Award 2025.
 - Google Research Award 2025.
 - AMD University Program AI&HPC Award 2025.

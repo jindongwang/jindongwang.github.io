@@ -32,6 +32,7 @@ The long-term research goal is to understand and improve modern AI models, such 
 
 #### Funding and Grants
 
+- Principal Investigator. NVIDIA Academic Research Grant. 2026 - 2027.
 - Principal Investigator. Amazon Research Award. 2025 - 2026.
 - Principal Investigator. Google DeepMind Unrestricted Gift Award. 2025 - 2026.
 - Principal Investigator. AMD University Program AI&HPC Award. 2025 - 2026.
