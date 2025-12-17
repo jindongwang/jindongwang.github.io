@@ -12,7 +12,7 @@ nav: true
 
 #### Seleted Publications
 
-- **Nature** General scales unlock ai evaluation with explanatory and predictive power. 
+- **[Nature]** General scales unlock ai evaluation with explanatory and predictive power. 
 - **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1300+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
 - **[ICML'24 Oral (Top 3%)]** CompeteAI: Understanding Competition Dynamics of LLM-based Agents.
 - **[NeurIPS'24 Spotlight (Top 5%)]** Slight Corruption in Pre-training Data Makes Better Diffusion Models.
