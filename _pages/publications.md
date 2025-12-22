@@ -30,6 +30,7 @@ nav: true
 
 - UniGame: Turning a Unified Multimodal Model Into Its Own Adversary. Zhaolong Su, Wang Lu, Hao Chen, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2511.19413)] [[code](https://github.com/AIFrontierLab/UniGame)]
 - KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning. Yinyi Luo, Zhexian Zhou, Hao Chen, Kai Qiu, Marios Savvides, Yixuan Li, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2510.02392)] [[code](https://github.com/AIFrontierLab/KnowledgeSmith)]
+- Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries. Hanzhong Zhang, Muhua Huang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2508.17366)]
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
 - Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]
 - Understanding and Mitigating the Bias Inheritance in LLM-based Data Augmentation on Downstream Tasks. Miaomiao Li, Hao Chen, Yang Wang, Tingyuan Zhu, Weijia Zhang, Kaijie Zhu, Kam-Fai Wong, Jindong Wang. [[arxiv](https://arxiv.org/abs/2502.04419)]

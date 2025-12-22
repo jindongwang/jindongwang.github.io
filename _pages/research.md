@@ -9,31 +9,31 @@ nav: true
 <img src="../assets/img/research.png" style="width: 85%"/>
 </center>
 
-The long-term research goal is to understand and improve modern AI models, such as pre-trained and large foundation models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal. The following lists some of the key research focuses and my full publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate).
+The long-term research goal is to understand and improve modern AI models (e.g., pre-trained models, large language models, and multimodal models). We create new theory, algorithms, applications, and open-sourced library to achieve our goal. The following lists some of the key research focuses and my full publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate). You are welcome to read the *annual review of my research*: [2025](https://jd92wang.notion.site/My-Research-in-2025-A-Review-2cdb4ea70d8e80248b6feec9fdc3a99b), [2024](https://jd92wang.notion.site/My-Research-in-2024-A-Review-157b4ea70d8e80cf9cabe45c72844846?source=copy_link), [2023](https://jd92wang.notion.site/My-Research-in-2023-A-Review-e8501114977d44b99cb01ae57e1f0856?source=copy_link).
 
 - **Machine learning with foundation models:** I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: machine learning with foundation models, robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications. How to efficiently use, adapt, and align large foundation models? How to enhance their robustness and reliability? How to make them more interpretable? Recently, I created a new research topic named *catastrophic inheritance* ([Vision paper (DMLR'24)](https://arxiv.org/abs/2402.01909)):
     - [Noisy model learning (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17002), [Noisy diffusion pre-training (NeurIPS'24 spotlight)](https://arxiv.org/abs/2405.20494), [Diversify (TPAMI'24)](https://arxiv.org/abs/2308.02282)
 - **Philosophy of language models:** understand how LMs work and their limitations, including [evaluation](https://llm-eval.github.io/), [enhancement](https://llm-enhance.github.io/), and agentic AI.
-    - Related papers: [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [DyVal2 (ICML'24)](https://arxiv.org/abs/2402.14865), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910), [PromptRobust (CCS LAMPS)](https://arxiv.org/abs/2306.04528)
+    - Related papers: [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [DyVal2 (ICML'24)](https://arxiv.org/abs/2402.14865), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910), [PromptRobust (CCS LAMPS)](https://arxiv.org/abs/2306.04528), [ADELE (Nature)](https://arxiv.org/abs/2503.06378)
 - **Generative AI and social sciences:** How to measure the impact of generative AI on different fields? How to use powerful AI models to assist interdisciplinary research? How to use existing knowledge in social sciences to help us better understand AI models?
     - Related papers: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [AgentReview (EMNLP'24 Oral)](https://arxiv.org/abs/2406.12708)
-- **Previous selected papers on Trustworthy AI:** [FlexMatch (NeurIPS'21)](https://arxiv.org/abs/2110.08263), [Diversify (ICLR'23)](https://arxiv.org/abs/2308.02282), [AdaRNN (CIKM'21)](https://arxiv.org/abs/2108.04443), [MEDA (MM'18)](https://jd92.wang/assets/files/a11_mm18.pdf).
+- **Previous selected papers on Trustworthy AI:** [FlexMatch (NeurIPS'21)](https://arxiv.org/abs/2110.08263), [Diversify (ICLR'23)](https://arxiv.org/abs/2308.02282), [AdaRNN (CIKM'21)](https://arxiv.org/abs/2108.04443), [MEDA (MM'18)](https://jd92.wang/assets/files/a11_mm18.pdf)
 
 #### Media Coverage
 
-- **NeurIPS 2024 with Jindong Wang and Steven Euijong Whang**, Microsoft Research Podcast. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)] [[Youtube](https://www.youtube.com/watch?v=2l0IBKqliOc)]
-- **The Answer To Why Emotionally Worded Prompts Can Goose Generative AI Into Better Answers And How To Spur A Decidedly Positive Rise Out Of AI**, by **Forbes**. November 2023. [[Webpage](https://www.forbes.com/sites/lanceeliot/2023/11/11/the-answer-to-why-emotionally-worded-prompts-can-goose-generative-ai-into-better-answers-and-how-to-spur-a-decidedly-positive-rise-out-of-ai/?sh=38038fb137e5)]
-- **CulturePark for low-resource large language models**, by **MIT Technology Review**. June 2024. [[Webpage](https://www.mittrchina.com/news/detail/13596)]
-- **Epic and Generative AI**, by Epic. December 2024. [[Webpage](https://www.epic.com/epic/post/cool-stuff-now-epic-and-generative-ai/)]
-- **Unveiling the Power of Semi-Supervised Learning: The Unified Semi-Supervised Learning Benchmark**, by **Pytorch**. May 2024. [[Webpage](https://medium.com/pytorch/unveiling-the-power-of-semi-supervised-learning-the-unified-semi-supervised-learning-benchmark-849f42bbc32a)]
-- **EmotionPrompt in RAG**, by **LlamaIndex**. August 2023. [[Webpage](https://docs.llamaindex.ai/en/v0.10.17/examples/prompts/emotion_prompt.html)]
-- **Exploring the effects of emotional stimuli to large language models**, by TexExplore. September 2023. [[Webpage](https://techxplore.com/news/2023-08-exploring-effects-emotional-stimuli-large.html)]
-- **CompeteAI: An Artificial Intelligence AI Framework that Understands the Competition Dynamics of Large Language Model-based Agents**, by Daily.dev, July 2024. [[Webpage](https://app.daily.dev/posts/competeai-an-artificial-intelligence-ai-framework-that-understands-the-competition-dynamics-of-larg-dc0ejfixo)]
+- NeurIPS 2024 with Jindong Wang and Steven Euijong Whang, **Microsoft Research Podcast**. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)] [[Youtube](https://www.youtube.com/watch?v=2l0IBKqliOc)]
+- The Answer To Why Emotionally Worded Prompts Can Goose Generative AI Into Better Answers And How To Spur A Decidedly Positive Rise Out Of AI, by **Forbes**. November 2023. [[Webpage](https://www.forbes.com/sites/lanceeliot/2023/11/11/the-answer-to-why-emotionally-worded-prompts-can-goose-generative-ai-into-better-answers-and-how-to-spur-a-decidedly-positive-rise-out-of-ai/?sh=38038fb137e5)]
+- CulturePark for low-resource large language models, by **MIT Technology Review**. June 2024. [[Webpage](https://www.mittrchina.com/news/detail/13596)]
+- Epic and Generative AI, by **Epic**. December 2024. [[Webpage](https://www.epic.com/epic/post/cool-stuff-now-epic-and-generative-ai/)]
+- Unveiling the Power of Semi-Supervised Learning: The Unified Semi-Supervised Learning Benchmark, by **Pytorch**. May 2024. [[Webpage](https://medium.com/pytorch/unveiling-the-power-of-semi-supervised-learning-the-unified-semi-supervised-learning-benchmark-849f42bbc32a)]
+- EmotionPrompt in RAG, by **LlamaIndex**. August 2023. [[Webpage](https://docs.llamaindex.ai/en/v0.10.17/examples/prompts/emotion_prompt.html)]
+- Exploring the effects of emotional stimuli to large language models, by **TexExplore**. September 2023. [[Webpage](https://techxplore.com/news/2023-08-exploring-effects-emotional-stimuli-large.html)]
+- CompeteAI: An Artificial Intelligence AI Framework that Understands the Competition Dynamics of Large Language Model-based Agents, by **Daily.dev**, July 2024. [[Webpage](https://app.daily.dev/posts/competeai-an-artificial-intelligence-ai-framework-that-understands-the-competition-dynamics-of-larg-dc0ejfixo)]
 
 #### Funding and Grants
 
-- Principal Investigator. NVIDIA Academic Research Grant. 2026 - 2027.
-- Principal Investigator. Amazon Research Award. 2025 - 2026.
+- Principal Investigator. NVIDIA Academic Grant Program. 2026 - 2027.
+- Principal Investigator. Amazon Research Award. 2026 - 2027.
 - Principal Investigator. Google DeepMind Unrestricted Gift Award. 2025 - 2026.
 - Principal Investigator. AMD University Program AI&HPC Award. 2025 - 2026.
 - Principal Investigator. Google Cloud Research Credit Award. 2025 - 2026.
@@ -41,7 +41,7 @@ The long-term research goal is to understand and improve modern AI models, such 
 - Principal Investigator. Cohere Labs Catalyst Grant. 2025 - 2026.
 - Principal Investigator. William & Mary Faculty Travel Grant. 2025.
 - Principal Investigator. William & Mary Faculty Research Award. 2025.
-- Principal Investigator. Microsoft [Accelerate Foundation Model Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) grant. 2025.02 -- 2025.06.
-- Co-Principal Investigator. "Mitigating Ethical AI Threats: Dynamic Benchmarks for Securing Multimodal Social Intelligence in Large Language Models(LLMs)". Awarded by The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
+- Principal Investigator. Microsoft Accelerate Foundation Model Research grant. 2025.02 -- 2025.06.
+- Co-Principal Investigator. The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
 
 <img src="../assets/img/funding.jpg" style="width: 60%"/>
