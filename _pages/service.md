@@ -30,7 +30,7 @@ nav: true
     - ACL/ARR 2025
   - **Senior PC**:
     - AAAI 2026, 2025, 2024, 2023
-    - IJCAI 2025, 2024, 2023
+    - IJCAI 2026,2025, 2024, 2023
     - CIKM 2025
   - **Publicity co-chair**, IJCAI 2019
   - **Session chair**, ICDM 2019
