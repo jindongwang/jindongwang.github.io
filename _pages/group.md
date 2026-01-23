@@ -12,12 +12,13 @@ nav: true
 
 #### PhD Students
 
+- 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
+  - Topics: Foundation model learning, unified multimodel training
+  - Outcomes: [UniGame](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
 - 2025.08 -- present, [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master in University of Rochester --> PhD in William & Mary.
   - Topics: LLM agent, general LLM evaluation
   - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
-- 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
-  - Topics: Foundation model learning, unified multimodel training
-  - Outcomes: [UniGame](https://arxiv.org/abs/2511.19413)
+
 
 #### Postdocs and Visting Scholars
 
@@ -31,9 +32,6 @@ nav: true
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
-- 2025.04 -- present, Hanzhong Zhang.
-  - Topics: LLM and society.
-  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366)
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
   - Outcomes: [KnowledgeSmith](https://www.arxiv.org/abs/2510.02392)
@@ -54,7 +52,9 @@ nav: true
   - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), Personalized education.
 
 #### Previous Interns
-
+- 2025.04 -- 2025.12, Hanzhong Zhang.
+  - Topics: LLM and society.
+  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366)
 - 2025.02 -- 2025.09, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
   - Topics: Catastrophic inheritance, diffusion models
   - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
