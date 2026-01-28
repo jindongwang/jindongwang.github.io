@@ -16,8 +16,8 @@ nav: true
   - Topics: Foundation model learning, unified multimodel training
   - Outcomes: [UniGame](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
 - 2025.08 -- present, [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master in University of Rochester --> PhD in William & Mary.
-  - Topics: LLM agent, general LLM evaluation
-  - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
+  - Topics: LLM agent, LLM evaluation
+  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
 
 
 #### Postdocs and Visting Scholars
@@ -34,7 +34,7 @@ nav: true
   - Topics: LLM and psychology.
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
-  - Outcomes: [KnowledgeSmith](https://www.arxiv.org/abs/2510.02392)
+  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392)
 - 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
@@ -49,7 +49,7 @@ nav: true
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
-  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), Personalized education.
+  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI](https://arxiv.org/abs/2601.06225).
 
 #### Previous Interns
 - 2025.04 -- 2025.12, Hanzhong Zhang.
@@ -60,7 +60,7 @@ nav: true
   - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
 - 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
-  - Outcomes: [Position paper](https://arxiv.org/abs/2505.22467)
+  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
 
 #### Previous Interns at MSRA (2019 -- 2024)
 
@@ -71,7 +71,7 @@ Overall: 5.5 years, 18 interns (5 female), 1 top-tier paper/per person/per 6 mon
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
 - 2024.09 -- 2024.12, Soyeon Kim, PhD @ KAIST, South Korea.
   - Topics: LLM evaluation.
-  - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
+  - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266), [TDBench (ICLR'26)](https://arxiv.org/abs/2508.02045)
 - 2024.09 -- 2024.12, Miaomiao Li, master @ Institute of Software, CAS. Now: PhD @ Chinese University of Hong Kong.
   - Topics: Bias in LLM.
   - Outcomes during internship: [Bias interitance](https://arxiv.org/abs/2502.04419)
