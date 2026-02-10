@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- AAAI 2026 Oustanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Research Grant 2025.
 - Amazon Research Award 2025.
 - Google Research Award 2025.
