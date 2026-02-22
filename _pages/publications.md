@@ -22,7 +22,7 @@ nav: true
 - **[ICML'24]** The good, the bad, and why: Unveiling emotions in generative ai. **(Reported by Forbes and many international media)**
 - **[IEEE TPAMI'24]** DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization.
 - **[CIKM'21]** Adarnn: Adaptive learning and forecasting of time series. **(Paperdigest most influencial paper)**
-- **[ACM MM'18]** Visual domain adaptation with manifold embedded distribution alignment. **(800 Citations; 2nd most cited paper in MM'18)**
+- **[ACM MM'18 Oral]** Visual domain adaptation with manifold embedded distribution alignment. **(800 Citations; 2nd most cited paper in MM'18)**
 - **[ICDM'17]** Balanced distribution adaptation for transfer learning. **(700 Citations; most cited paper in ICDM'17)**
 
 
@@ -30,7 +30,6 @@ nav: true
 
 - AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent. Yinyi Luo, Yiqiao Jin, Weichen Yu, Mengqi Zhang, Srijan Kumar, Xiaoxiao Li, Weijie Xu, Xin Chen, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2602.03955)] [[code](https://github.com/AIFrontierLab/AgentArk)]
 - Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents. Jiatong Li, Changdae Oh, Hyeong Kyu Choi, Jindong Wang, Sharon Li. [[arxiv](https://arxiv.org/abs/2602.07796)] [[code](https://github.com/deeplearning-wisc/Thinking-Agent)]
-- UniGame: Turning a Unified Multimodal Model Into Its Own Adversary. Zhaolong Su, Wang Lu, Hao Chen, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2511.19413)] [[code](https://github.com/AIFrontierLab/UniGame)]
 - Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries. Hanzhong Zhang, Muhua Huang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2508.17366)]
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
 - Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]

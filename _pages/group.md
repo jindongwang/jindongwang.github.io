@@ -14,7 +14,7 @@ nav: true
 
 - 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
   - Topics: Foundation model learning, unified multimodel training
-  - Outcomes: [UniGame](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
 - 2025.08 -- present, [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master in University of Rochester --> PhD in William & Mary.
   - Topics: LLM agent, LLM evaluation
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
@@ -49,7 +49,7 @@ nav: true
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
-  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI](https://arxiv.org/abs/2601.06225).
+  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).
 
 #### Previous Interns
 - 2025.04 -- 2025.12, Hanzhong Zhang.

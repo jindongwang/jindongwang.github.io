@@ -5,14 +5,15 @@ permalink: /talks/
 nav: true
 ---
 
-#### Course at William & Mary
+#### Teaching at William & Mary
 
-- Spring 2026: **Trustworthy AI** (DATA 440/691). 
+- Spring 2026: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring26)]
 - Fall 2025: **Generative AI** (DATA 446/622). [[website](https://go.jd92.wang/fall25-genai)]
 - Spring 2025: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring25)]
 
 #### Tutorials
 
+- CVPR 2026: **The Road to Convergence: Evolution of Unified Multimodal Models**, June, 2026.
 - CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**, June, 2025. [[Website&Slides](https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/)]
 - AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025. [[Website&Slides](https://llm-understand.github.io/)]
 - AAAI 2025: **Unified Semi-Supervised Learning with Foundation Models**, Feb., 2025. [[Website&Slides](https://unified-ssl.github.io/)]
