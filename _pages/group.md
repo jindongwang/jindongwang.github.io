@@ -10,17 +10,17 @@ nav: true
 
 - Jindong Wang.
 
-#### PhD Students
+#### Current PhD Students
 
-- 2025.08 -- present, [Zhaolong Su](https://rollingsu.github.io/), bachelor in Beijing University of Technology --> PhD in William & Mary.
-  - Topics: Foundation model learning, unified multimodel training
-  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
-- 2025.08 -- present, [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master in University of Rochester --> PhD in William & Mary.
+- 2025.08 -- present, Mengqi Zhang, master in University of Rochester --> PhD in William & Mary.
   - Topics: LLM agent, LLM evaluation
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
+- 2025.08 -- 2026.05, Zhaolong Su, bachelor in Beijing University of Technology --> PhD in William & Mary.
+  - Topics: Foundation model learning, unified multimodel training
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 FL workshop)](https://arxiv.org/abs/2601.15390)
+  - The student has decided to transfer to Cornell University starting Fall 2026 for medical AI research.
 
-
-#### Postdocs and Visting Scholars
+#### Postdocs, Visting Scholars, and Past Students
 
 - 2025.07 -- 2025.09, Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
 
