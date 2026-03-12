@@ -24,6 +24,7 @@ nav: true
 
 #### Invited talks
 
+- **Improving Personalization and Consistency of Large Foundation Models**, at University of Virginia AI and Machine Learning Seminar. Mar. 2026. [[Website](https://uvaml.github.io/pasttalks/2026-03-11/)]
 - **Deep Dive: Trustworthy, Multimodal, and Personalized AI Safety with Dr. Jindong Wang**, at AIRiskInc podcast. Feb. 2026. [[Youtube](https://youtu.be/hGW0-j7aur8)] [[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7432102544094429185/)]
 - **Introduction to AI Evaluation**, at Internation Program on AI Evaluation. Feb. 2026. [[website](https://ai-evaluation.org/)] [[video](https://youtu.be/nvQtoM5PdS0?si=vkBisME1GdUMEHKy)]
 - **Multi-agent Systems in Ambient Settings**, at ICML social event, Vancouver, July 2025. [[website](https://lu.ma/xwlm5e7t)]
