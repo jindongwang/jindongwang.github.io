@@ -9,11 +9,12 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)]  [[DBLP](https://dblp.org/pid/19/2969-1.html)]  [[View by topic](https://jd92.wang/research/)]
 
+**Summary:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (13), ICML (12), KDD (3), IEEE TPAMI (2), IJCAI (3), CVPR (4), IEEE TKDE (4), ACL (8), AAAI (1), ICCV (1), ECCV (1), UbiComp (3), MM (1). 
 
 #### Seleted Publications
 
 - **[Nature]** General scales unlock ai evaluation with explanatory and predictive power. 
-- **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1300+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
+- **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1400+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
 - **[ICML'24 Oral (Top 3%)]** CompeteAI: Understanding Competition Dynamics of LLM-based Agents.
 - **[NeurIPS'24 Spotlight (Top 5%)]** Slight Corruption in Pre-training Data Makes Better Diffusion Models.
 - **[IEEE TPAMI'25]** Impact of Noisy Supervision in Foundation Model Learning.
