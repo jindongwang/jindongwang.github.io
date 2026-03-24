@@ -21,7 +21,7 @@ nav: true
     - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - **Area Chair**:
-    - NeurIPS 2025, 2024, 2023
+    - NeurIPS 2026, 2025, 2024, 2023
     - ICML 2026, 2025
     - ICLR 2026, 2025
     - KDD 2026, 2025, 2024
