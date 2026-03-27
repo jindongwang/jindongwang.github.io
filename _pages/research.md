@@ -32,6 +32,7 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 
 #### Funding and Grants
 
+- Principal Investigator. Lambda Research Grant Program. 2026 - 2027.
 - Principal Investigator. NVIDIA Academic Grant Program. 2026 - 2027.
 - Principal Investigator. Amazon Research Award. 2026 - 2027.
 - Principal Investigator. Google DeepMind Unrestricted Gift Award. 2025 - 2026.
@@ -44,4 +45,4 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 - Principal Investigator. Microsoft Accelerate Foundation Model Research grant. 2025.02 -- 2025.06.
 - Co-Principal Investigator. The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
 
-<img src="../assets/img/funding.jpg" style="width: 60%"/>
+<img src="../assets/img/funding.jpg" style="width: 70%"/>
