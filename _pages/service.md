@@ -30,8 +30,8 @@ nav: true
     - ACL/ARR 2025
   - **Senior PC**:
     - AAAI 2026, 2025, 2024, 2023
-    - IJCAI 2026,2025, 2024, 2023
-    - CIKM 2025
+    - IJCAI 2026, 2025, 2024, 2023
+    - CIKM 2026, 2025
   - **PhD Forum Chair**: IEEE International Conference on Big Data 2026 ([Website](https://bigdataieee.org/BigData2026/organization/committee/))
   - **Publicity co-chair**, IJCAI 2019
   - **Session chair**, ICDM 2019
