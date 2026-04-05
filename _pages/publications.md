@@ -29,6 +29,7 @@ nav: true
 
 #### Recent Preprints
 
+- Consistency Should Be the Priority for Unified Multimodal Models. Zhaolong Su, Yinyi Luo, Yiqiao Jin, Mengqi Zhang, Wenyue Hua, Srijan Kumar, Qingsong Wen, Jindong Wang. [[arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?download=true)]
 - Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies. Hanzhong Zhang, Siyang Song, Jindong Wang. [[arXiv](https://arxiv.org/abs/2603.23406)] [[code](https://github.com/armihia/CMASE-Endogenous-Stances)]
 - AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent. Yinyi Luo, Yiqiao Jin, Weichen Yu, Mengqi Zhang, Srijan Kumar, Xiaoxiao Li, Weijie Xu, Xin Chen, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2602.03955)] [[code](https://github.com/AIFrontierLab/AgentArk)]
 - Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents. Jiatong Li, Changdae Oh, Hyeong Kyu Choi, Jindong Wang, Sharon Li. [[arxiv](https://arxiv.org/abs/2602.07796)] [[code](https://github.com/deeplearning-wisc/Thinking-Agent)]

@@ -13,18 +13,23 @@ nav: true
 #### Postdocs, Visting Scholars, and Past Students
 
 - 2025.07 -- 2025.09, Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
+  - Visting scholar.
+- 2025.08 -- 2026.05, M. Zhang
+  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
+- 2025.08 -- 2026.05, Z. Su
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
 
 
 #### Current Interns
 
+- 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
+  - Topics: LLM understanding and evaluation.
+  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk](https://www.arxiv.org/abs/2602.03955)
 - 2025.01 -- present, [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
-- 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
-  - Topics: LLM understanding and evaluation.
-  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392)
 - 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
@@ -35,19 +40,18 @@ nav: true
 #### Collaborating Students
 
 - [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: Google Deepmind.
-- [Kaijie Zhu](https://immortalise.github.io/), PhD student @ UCSB.
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
   - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).
 
 #### Previous Interns
-- 2025.04 -- 2025.12, Hanzhong Zhang.
+- 2025.04 -- 2025.12, Hanzhong Zhang. PhD at U. Exeter.
   - Topics: LLM and society.
-  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366)
+  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)
 - 2025.02 -- 2025.09, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
   - Topics: Catastrophic inheritance, diffusion models
-  - Outcomes: [Corruption-aware training of video diffusion](https://arxiv.org/abs/2505.21545)
+  - Outcomes: [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
 - 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
