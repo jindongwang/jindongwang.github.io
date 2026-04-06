@@ -10,14 +10,15 @@ nav: true
 
 - Jindong Wang.
 
-#### Postdocs, Visting Scholars, and Past Students
+#### Current Students
+
+- 2026.08 -- present, Zhi Yang, master @ SusTech
+- 2026.08 -- present, Hayes H. Bai, master @ HFUT.
+
+#### Postdocs and Visting Scholars
 
 - 2025.07 -- 2025.09, Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
   - Visting scholar.
-- 2025.08 -- 2026.05, M. Zhang
-  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
-- 2025.08 -- 2026.05, Z. Su
-  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
 
 
 #### Current Interns
@@ -46,6 +47,10 @@ nav: true
   - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).
 
 #### Previous Interns
+- 2025.08 -- 2026.05, M. Zhang
+  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
+- 2025.08 -- 2026.05, Z. Su
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
 - 2025.04 -- 2025.12, Hanzhong Zhang. PhD at U. Exeter.
   - Topics: LLM and society.
   - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)

@@ -9,7 +9,7 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)]  [[DBLP](https://dblp.org/pid/19/2969-1.html)]  [[View by topic](https://jd92.wang/research/)]
 
-**Summary:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (13), ICML (12), KDD (3), IEEE TPAMI (2), IJCAI (3), CVPR (4), IEEE TKDE (4), ACL (8), AAAI (1), ICCV (1), ECCV (1), UbiComp (3), MM (1). 
+**Selected venues:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (13), ICML (12), KDD (3), IEEE TPAMI (2), IJCAI (3), CVPR (4), IEEE TKDE (4), ACL (8), AAAI (1), ICCV (1), ECCV (1), UbiComp (3), MM (1). 
 
 #### Seleted Publications
 
@@ -36,7 +36,6 @@ nav: true
 - Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries. Hanzhong Zhang, Muhua Huang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2508.17366)]
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
 - Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]
-- Understanding and Mitigating the Bias Inheritance in LLM-based Data Augmentation on Downstream Tasks. Miaomiao Li, Hao Chen, Yang Wang, Tingyuan Zhu, Weijia Zhang, Kaijie Zhu, Kam-Fai Wong, Jindong Wang. [[arxiv](https://arxiv.org/abs/2502.04419)]
 - MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders. Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[arxiv](https://arxiv.org/abs/2410.06845)]
 - On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
 
