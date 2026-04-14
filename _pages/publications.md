@@ -29,6 +29,7 @@ nav: true
 
 #### Recent Preprints
 
+- TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training. Yinyi Luo, Wenwen Wang, Hayes Bai, Hongyu Zhu, Hao Chen, Pan He, Marios Savvides, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2604.10784)] [[code](https://github.com/AIFrontierLab/TorchUMM)]
 - Consistency Should Be the Priority for Unified Multimodal Models. Zhaolong Su, Yinyi Luo, Yiqiao Jin, Mengqi Zhang, Wenyue Hua, Srijan Kumar, Qingsong Wen, Jindong Wang. [[arxiv](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?download=true)]
 - Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies. Hanzhong Zhang, Siyang Song, Jindong Wang. [[arXiv](https://arxiv.org/abs/2603.23406)] [[code](https://github.com/armihia/CMASE-Endogenous-Stances)]
 - AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent. Yinyi Luo, Yiqiao Jin, Weichen Yu, Mengqi Zhang, Srijan Kumar, Xiaoxiao Li, Weijie Xu, Xin Chen, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2602.03955)] [[code](https://github.com/AIFrontierLab/AgentArk)]
