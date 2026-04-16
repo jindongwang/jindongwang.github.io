@@ -10,7 +10,7 @@ nav: true
 
 - Jindong Wang.
 
-#### Current Students
+#### Current PhD Students
 
 - 2026.08 -- present, Zhi Yang, master @ SusTech
 - 2026.08 -- present, Hayes H. Bai, master @ HFUT.
@@ -21,7 +21,7 @@ nav: true
   - Visting scholar.
 
 
-#### Current Interns
+#### Current Interns and Collaborating Students
 
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
@@ -34,23 +34,25 @@ nav: true
 - 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
-
-
-[Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
-
-#### Collaborating Students
-
-- [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: Google Deepmind.
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
   - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).
 
+[Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
+
+
+#### Undergraduates in William & Mary
+
+- 2026.02 -- present, Rebecca Huang, Undergraduate @ William & Mary.
+  - Topics: LLM for biology.
+  - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
+- 2025.04, Daniel Kalish.
+  - Serving as adivor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
+
+
 #### Previous Interns
-- 2025.08 -- 2026.05, M. Zhang
-  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
-- 2025.08 -- 2026.05, Z. Su
-  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
+
 - 2025.04 -- 2025.12, Hanzhong Zhang. PhD at U. Exeter.
   - Topics: LLM and society.
   - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)
@@ -60,6 +62,10 @@ nav: true
 - 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
+- 2025.08 -- 2026.05, M. Zhang
+  - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
+- 2025.08 -- 2026.05, Z. Su
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
 
 #### Previous Interns at MSRA (2019 -- 2024)
 
