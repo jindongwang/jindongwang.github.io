@@ -32,6 +32,7 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 
 #### Funding and Grants
 
+- Principal Investigator. Google Awards for Machine Learning Research and Education with TPUs. 2026 - 2027.
 - Principal Investigator. Lambda Research Grant Program. 2026 - 2027.
 - Principal Investigator. NVIDIA Academic Grant Program. 2026 - 2027.
 - Principal Investigator. Amazon Research Award. 2026 - 2027.

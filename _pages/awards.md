@@ -6,6 +6,7 @@ nav: true
 ---
 
 #### After PhD
+- Google Awards for Machine Learning Research and Education with TPUs. 2026
 - AAAI 2026 Oustanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Grant Program 2025.
 - Amazon Research Award 2025.
