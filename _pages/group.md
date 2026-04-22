@@ -12,8 +12,8 @@ nav: true
 
 #### Current PhD Students
 
-- 2026.08 -- present, Zhi Yang, master @ SusTech
-- 2026.08 -- present, Hayes H. Bai, master @ HFUT.
+- 2026.08 -- present, Zhi Yang.
+- 2026.08 -- present, Hayes H. Bai.
 
 #### Postdocs and Visting Scholars
 
@@ -62,10 +62,10 @@ nav: true
 - 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
-- 2025.08 -- 2026.05, M. Zhang
+<!-- - 2025.08 -- 2026.05, M. Zhang
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467), [AgentArk](https://www.arxiv.org/abs/2602.03955)
 - 2025.08 -- 2026.05, Z. Su
-  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true)
+  - Outcomes: [UniGame (CVPR'26)](https://arxiv.org/abs/2511.19413), [FedUMM (WWW'26 workshop)](https://arxiv.org/abs/2601.15390), [UMM position paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177129961.14848580/v1?onload=true) -->
 
 #### Previous Interns at MSRA (2019 -- 2024)
 

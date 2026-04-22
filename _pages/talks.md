@@ -7,12 +7,14 @@ nav: true
 
 #### Teaching at William & Mary
 
+- Fall 2026: **Trustworthy AI** (DATA 405/603).
 - Spring 2026: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring26)]
 - Fall 2025: **Generative AI** (DATA 446/622). [[website](https://go.jd92.wang/fall25-genai)]
 - Spring 2025: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring25)]
 
 #### Tutorials
 
+- IJCAI 2026: **A Tutorial on Unified Multimodal Models**, August 2026.
 - CVPR 2026: **The Road to Convergence: Evolution of Unified Multimodal Models**, June, 2026.
 - CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**, June, 2025. [[Website&Slides](https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/)]
 - AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025. [[Website&Slides](https://llm-understand.github.io/)]
@@ -24,6 +26,7 @@ nav: true
 
 #### Invited talks
 
+- **Improving Personalization and Consistency of Large Foundation Models**, at UIUC. Apr. 2026.
 - **Improving Personalization and Consistency of Large Foundation Models**, at Texas A&M University. Apr. 2026. [[Website](https://khhuang.me/CSCE638-S26/)]
 - **Improving Personalization and Consistency of Large Foundation Models**, at University of Virginia AI and Machine Learning Seminar. Mar. 2026. [[Website](https://uvaml.github.io/pasttalks/2026-03-11/)]
 - **Deep Dive: Trustworthy, Multimodal, and Personalized AI Safety with Dr. Jindong Wang**, at AIRiskInc podcast. Feb. 2026. [[Youtube](https://youtu.be/hGW0-j7aur8)] [[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7432102544094429185/)]
