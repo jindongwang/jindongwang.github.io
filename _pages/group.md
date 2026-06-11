@@ -11,6 +11,8 @@ nav: true
 
 - 2026.08 -- present, Zhi Yang.
 - 2026.08 -- present, Hayes H. Bai.
+  - Topics: Unified multimodal models, foundation models, and machine learning.
+  - Outcomes: [UniPath](https://arxiv.org/pdf/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784)
 
 #### Postdocs and Visting Scholars
 
@@ -22,16 +24,18 @@ nav: true
 
 - 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation.
-  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk](https://www.arxiv.org/abs/2602.03955)
+  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784), [UniPath](https://arxiv.org/pdf/2605.11400)
 - 2025.01 -- present, [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
+  - Outcomes: [Emotional SLM](https://arxiv.org/abs/2604.06562)
 - 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
+  - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597)
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
   - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).

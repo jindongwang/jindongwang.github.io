@@ -33,7 +33,7 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 - CompeteAI: An Artificial Intelligence AI Framework that Understands the Competition Dynamics of Large Language Model-based Agents, by **Daily.dev**, July 2024. [[Webpage](https://app.daily.dev/posts/competeai-an-artificial-intelligence-ai-framework-that-understands-the-competition-dynamics-of-larg-dc0ejfixo)]
 
 #### Funding and Grants
-
+- Principal Investigator. Gemini Academic Research Award. 2026 - 2027.
 - Principal Investigator. Google Awards for Machine Learning Research and Education with TPUs. 2026 - 2027.
 - Principal Investigator. Lambda Research Grant Program. 2026 - 2027.
 - Principal Investigator. NVIDIA Academic Grant Program. 2026 - 2027.

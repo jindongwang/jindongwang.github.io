@@ -5,7 +5,8 @@ permalink: /awards/
 nav: true
 ---
 
-#### After PhD
+- Best Student Paper Award, WWW 2026 workshop on federeted learning. 2026.
+- Gemini Academic Research Award. 2026.
 - Google Awards for Machine Learning Research and Education with TPUs. 2026
 - AAAI 2026 Oustanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Grant Program 2025.
