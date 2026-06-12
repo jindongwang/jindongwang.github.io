@@ -33,19 +33,20 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 - CompeteAI: An Artificial Intelligence AI Framework that Understands the Competition Dynamics of Large Language Model-based Agents, by **Daily.dev**, July 2024. [[Webpage](https://app.daily.dev/posts/competeai-an-artificial-intelligence-ai-framework-that-understands-the-competition-dynamics-of-larg-dc0ejfixo)]
 
 #### Funding and Grants
-- Principal Investigator. Gemini Academic Research Award. 2026 - 2027.
-- Principal Investigator. Google Awards for Machine Learning Research and Education with TPUs. 2026 - 2027.
-- Principal Investigator. Lambda Research Grant Program. 2026 - 2027.
-- Principal Investigator. NVIDIA Academic Grant Program. 2026 - 2027.
-- Principal Investigator. Amazon Research Award. 2026 - 2027.
-- Principal Investigator. Google DeepMind Unrestricted Gift Award. 2025 - 2026.
-- Principal Investigator. AMD University Program AI&HPC Award. 2025 - 2026.
-- Principal Investigator. Google Cloud Research Credit Award. 2025 - 2026.
-- Principal Investigator. Modal academic compute grant. 2025 - 2026.
-- Principal Investigator. Cohere Labs Catalyst Grant. 2025 - 2026.
-- Principal Investigator. William & Mary Faculty Travel Grant. 2025.
-- Principal Investigator. William & Mary Faculty Research Award. 2025.
-- Principal Investigator. Microsoft Accelerate Foundation Model Research grant. 2025.02 -- 2025.06.
-- Co-Principal Investigator. The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
+- PI. Gemini Academic Research Award. 2026 - 2027.
+- Co-PI. The Commonwealth Cyber Initiative (CCI) Experiential Learning Project. 2026.08 -- 2027.07.
+- PI. Google Awards for Machine Learning Research and Education with TPUs. 2026 - 2027.
+- PI. Lambda Research Grant Program. 2026 - 2027.
+- PI. NVIDIA Academic Grant Program. 2026 - 2027.
+- PI. Amazon Research Award. 2026 - 2027.
+- PI. Google DeepMind Unrestricted Gift Award. 2025 - 2026.
+- PI. AMD University Program AI&HPC Award. 2025 - 2026.
+- PI. Google Cloud Research Credit Award. 2025 - 2026.
+- PI. Modal academic compute grant. 2025 - 2026.
+- PI. Cohere Labs Catalyst Grant. 2025 - 2026.
+- PI. William & Mary Faculty Travel Grant. 2025.
+- PI. William & Mary Faculty Research Award. 2025.
+- PI. Microsoft Accelerate Foundation Model Research grant. 2025.02 -- 2025.06.
+- Co-PI. The Commonwealth Cyber Initiative (CCI). 2025.03 -- 2026.02.
 
 <img src="../assets/img/funding.jpg" style="width: 70%"/>
