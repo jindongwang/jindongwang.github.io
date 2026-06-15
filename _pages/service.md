@@ -12,7 +12,7 @@ nav: true
   - **Associate editor**, Journal of Computer Science and Technology (JCST) 
 
 #### Academic Program
-  - **Academic director**, International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
+  - **Founding academic co-director**, International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
 
 #### Conference
   - **Workshop Organizer/Chair**:
@@ -27,18 +27,19 @@ nav: true
     - KDD 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
     - ACML 2025, 2024
-    - ACL/ARR 2025
+    - ACL/ARR 2026, 2025
   - **Senior PC**:
     - AAAI 2026, 2025, 2024, 2023
     - IJCAI 2026, 2025, 2024, 2023
     - CIKM 2026, 2025
+    - AIES 2026
   - **PhD Forum Chair**: IEEE International Conference on Big Data 2026 ([Website](https://bigdataieee.org/BigData2026/organization/committee/))
   - **Publicity co-chair**, IJCAI 2019
   - **Session chair**, ICDM 2019
 
 #### Program / grant reviewer:
-  - **Panelist**, National Science Foundation (NSF)
-  - **Reviewer**, Oak Ridge Associated Universities (ORAU)
+  - **Panelist**, National Science Foundation (NSF), 2026
+  - **Reviewer**, Oak Ridge Associated Universities (ORAU), 2025
 
 #### Conference PC member / reviewer: 
   - ML: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)

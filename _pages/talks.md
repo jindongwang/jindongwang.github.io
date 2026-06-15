@@ -14,6 +14,7 @@ nav: true
 
 #### Tutorials
 
+- ACMMM 2026: **A Tutorial on Unified Multimodal Models**, November 2026.
 - IJCAI 2026: **A Tutorial on Unified Multimodal Models**, August 2026.
 - CVPR 2026: **The Road to Convergence: Evolution of Unified Multimodal Models**, June, 2026.
 - CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**, June, 2025. [[Website&Slides](https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/)]

@@ -7,11 +7,11 @@ nav: true
 
 - Best Student Paper Award, WWW 2026 workshop on federeted learning. 2026.
 - Gemini Academic Research Award. 2026.
-- Google Awards for Machine Learning Research and Education with TPUs. 2026
+- Google Awards for Machine Learning Research and Education with TPUs. 2026.
 - AAAI 2026 Oustanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Grant Program 2025.
 - Amazon Research Award 2025.
-- Google Research Award 2025.
+- Google Unrestricted Research Gift. 2025.
 - AMD University Program AI&HPC Award 2025.
 - William & Mary Faculty Research Award 2025.
 - Microsoft Accelerate Foundation Model Research (AFMR) Award 2025.
@@ -26,7 +26,7 @@ nav: true
 - Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
 
 
-#### During PhD and Bachelor
+During PhD and Bachelor:
 - Outstanding Scholarship of CAS president 2019.
 - Special scholarship of ICT CAS 2019.
 - Student Scholarship. AAAI Conference on Artificial Intelligence (AAAI) 2019.
@@ -41,4 +41,4 @@ nav: true
 - Excellent Graduate, NCUT 2014.
 - Excellent Bachelor's Graduation Thesis, NCUT 2014.
 - Beijing Merit Student, Beijing City 2013.
-- National Scholarship (3x), Ministry of Education 2012, 2013, 2014.
+- National Scholarship, Ministry of Education 2012, 2013, 2014.

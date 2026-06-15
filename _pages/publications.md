@@ -13,7 +13,8 @@ nav: true
 
 #### Seleted Publications
 
-- **[Nature]** General scales unlock ai evaluation with explanatory and predictive power. 
+- **[Nature'26]** General scales unlock ai evaluation with explanatory and predictive power. 
+- **[Nature AI'26]** Classroom AI: large language models as grade-specific teachers.
 - **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1400+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
 - **[ICML'24 Oral (Top 3%)]** CompeteAI: Understanding Competition Dynamics of LLM-based Agents.
 - **[NeurIPS'24 Spotlight (Top 5%)]** Slight Corruption in Pre-training Data Makes Better Diffusion Models.
@@ -29,6 +30,7 @@ nav: true
 
 #### Recent Preprints
 
+- LatentUMM: Dual Latent Alignment for Unified Multimodal Models. Yinyi Luo, Wenwen Wang, Hayes Bai, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.17766)]
 - UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning. Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.11400)] [[code](https://github.com/AIFrontierLab/TorchUMM/tree/main/src/umm/post_training/unipath)]
 - UniSD: Towards a Unified Self-Distillation Framework for Large Language Models. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Yijia Xiao, Yinyi Luo, Haoxin Liu, B. Aditya Prakash, Josiah Hester, Jindong Wang, Srijan Kumar. [[arxiv](https://arxiv.org/abs/2605.06597)] [[code](https://github.com/Ahren09/UniSD)]
 - TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training. Yinyi Luo, Wenwen Wang, Hayes Bai, Hongyu Zhu, Hao Chen, Pan He, Marios Savvides, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2604.10784)] [[code](https://github.com/AIFrontierLab/TorchUMM)]
