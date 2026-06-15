@@ -12,7 +12,7 @@ nav: true
   - **Associate editor**, Journal of Computer Science and Technology (JCST) 
 
 #### Academic Program
-  - **Founding academic co-director**, International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
+  - **Founding academic co-director**, The First International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
 
 #### Conference
   - **Workshop Organizer/Chair**:
