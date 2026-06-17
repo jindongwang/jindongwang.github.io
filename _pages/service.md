@@ -18,13 +18,13 @@ nav: true
   - **Workshop Organizer/Chair**:
     - NeurIPS 2025 workshop: PersonaLLM: Workshop on LLM Persona Modeling ([PersonaLLM](https://personallmworkshop.github.io/))
     - CIKM 2025 workshop: Trustworthy Knowledge Discovery and Data Mining ([TrustKDD](https://le-wu.com/cikm25-trustkdd-workshop/))
-    - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
+    - ICCV 2025 workshop: Trust Before Use: Building Foundation Models that You Can Trust ([TrustFM](https://t2fm-ws.github.io/T2FM-ICCV25/index.html))
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - **Area Chair**:
     - NeurIPS 2026, 2025, 2024, 2023
     - ICML 2026, 2025
     - ICLR 2026, 2025
-    - KDD 2026, 2025, 2024
+    - KDD 2027, 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
     - ACML 2025, 2024
     - ACL/ARR 2026, 2025
@@ -33,7 +33,7 @@ nav: true
     - IJCAI 2026, 2025, 2024, 2023
     - CIKM 2026, 2025
     - AIES 2026
-  - **PhD Forum Chair**: IEEE International Conference on Big Data 2026 ([Website](https://bigdataieee.org/BigData2026/organization/committee/))
+  - **PhD Forum Chair**, IEEE International Conference on Big Data 2026 ([Website](https://bigdataieee.org/BigData2026/organization/committee/))
   - **Publicity co-chair**, IJCAI 2019
   - **Session chair**, ICDM 2019
 
