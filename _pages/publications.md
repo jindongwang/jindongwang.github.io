@@ -41,7 +41,6 @@ nav: true
 - Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents. Jiatong Li, Changdae Oh, Hyeong Kyu Choi, Jindong Wang, Sharon Li. [[arxiv](https://arxiv.org/abs/2602.07796)] [[code](https://github.com/deeplearning-wisc/Thinking-Agent)]
 - Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries. Hanzhong Zhang, Muhua Huang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2508.17366)]
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
-- Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]
 - MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders. Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[arxiv](https://arxiv.org/abs/2410.06845)]
 - On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
 

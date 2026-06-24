@@ -9,7 +9,7 @@ nav: true
 
   - **Associate editor**, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - **Lead guest editor**, ACM Transactions on Intelligence Systems and Technology (TIST)
-  - **Associate editor**, Journal of Computer Science and Technology (JCST) 
+  - **Associate editor**, Journal of Computer Science and Technology (JCST)
 
 #### Academic Program
   - **Founding academic co-director**, The First International Programme on AI Evaluation: Capabilities & Safety. February - May 2026. [[Website](https://ai-evaluation.org/)]
@@ -29,7 +29,7 @@ nav: true
     - ACML 2025, 2024
     - ACL/ARR 2026, 2025
   - **Senior PC**:
-    - AAAI 2026, 2025, 2024, 2023
+    - AAAI 2027, 2026, 2025, 2024, 2023
     - IJCAI 2026, 2025, 2024, 2023
     - CIKM 2026, 2025
     - AIES 2026
@@ -44,7 +44,7 @@ nav: true
 #### Conference PC member / reviewer: 
   - ML: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
   - AI: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV: CVPR (2024, 2023, 2022, 2021); ICCV (2025, 2023, 2021); ECCV (2022)
+  - CV: CVPR (2026, 2024, 2023, 2022, 2021); ICCV (2025, 2023, 2021); ECCV (2026, 2022)
   - DM: KDD (2021); WWW (2024, 2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
   - HCI: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
 

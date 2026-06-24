@@ -26,7 +26,7 @@ nav: true
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
   - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597)
-- [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
+- [Chika Maduabuchi](https://chikap421.github.io/), PhD student @ UC Irvine.
   - Topics: Video diffusion models
   - Outcomes: [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
