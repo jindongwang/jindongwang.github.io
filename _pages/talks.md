@@ -27,6 +27,7 @@ nav: true
 
 #### Invited talks
 
+- **Improving Personalization and Consistency of Large Foundation Models**, at Institute for Mathematical and Statistical Innovation (IMSI) workshop: New Horizons on Model Transportability and Data Integration. University of Chicago, June, 2026.
 - **Improving Personalization and Consistency of Large Foundation Models**, at UIUC. Apr. 2026.
 - **Improving Personalization and Consistency of Large Foundation Models**, at Texas A&M University. Apr. 2026. [[Website](https://khhuang.me/CSCE638-S26/)]
 - **Improving Personalization and Consistency of Large Foundation Models**, at University of Virginia AI and Machine Learning Seminar. Mar. 2026. [[Website](https://uvaml.github.io/pasttalks/2026-03-11/)]
