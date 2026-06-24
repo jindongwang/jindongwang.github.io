@@ -5,65 +5,52 @@ permalink: /group/
 nav: true
 ---
 
+#### Team Members
 
-
-#### Current PhD Students
-
-- 2026.08 -- present, Zhi Yang.
-- 2026.08 -- present, Hayes H. Bai.
+- Zhi Yang. PhD student. 
+  - Topics: Foundation model personalization.
+- Hayes H. Bai. PhD student.
   - Topics: Unified multimodal models, foundation models, and machine learning.
   - Outcomes: [UniPath](https://arxiv.org/pdf/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784)
-
-#### Postdocs and Visting Scholars
-
-- 2025.07 -- 2025.09, Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
-  - Visting scholar.
-
-
-#### Current Interns and Collaborating Students
-
-- 2025.06 -- present, Yinyi Luo, PhD @ Carnegie Mellon University.
-  - Topics: LLM understanding and evaluation.
+- Yinyi Luo, PhD @ Carnegie Mellon University.
+  - Topics: LLM understanding and evaluation, unified multimodal models.
   - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784), [UniPath](https://arxiv.org/pdf/2605.11400)
-- 2025.01 -- present, [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
+- [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
-- 2025.05 -- present, [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
+- [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
   - Outcomes: [Emotional SLM](https://arxiv.org/abs/2604.06562)
-- 2025.03 -- present, [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
+- [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
   - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597)
+- [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
+  - Topics: Video diffusion models
+  - Outcomes: [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
 - [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
-  - Outcomes: [Table LLM](https://arxiv.org/abs/2412.17189), [Classroom AI (npj AI'26)](https://arxiv.org/abs/2601.06225).
+  - Outcomes: [Classroom AI (Nature AI'26)](https://arxiv.org/abs/2601.06225), [Table LLM](https://arxiv.org/abs/2412.17189).
+- Rebecca Huang, Undergraduate @ William & Mary.
+  - Topics: LLM for biology.
+  - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
 
 [Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
 
 
-#### Undergraduates at William & Mary
-
-- 2026.02 -- present, Rebecca Huang, Undergraduate @ William & Mary.
-  - Topics: LLM for biology.
-  - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
-- 2025.04, Daniel Kalish.
-  - Serving as adivor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
-
-
-#### Previous Interns
-
-- 2025.04 -- 2025.12, Hanzhong Zhang. PhD at U. Exeter.
+#### Past Members
+- Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
+  - Visting scholar during 2025.07 -- 2025.09.
+- Mengqi Zhang, PhD @ William & Mary.
+- Hanzhong Zhang. PhD at U. Exeter.
   - Topics: LLM and society.
   - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)
-- 2025.02 -- 2025.09, [Chika Maduabuchi](https://chikap421.github.io/), PhD @ UC Irvine.
-  - Topics: Catastrophic inheritance, diffusion models
-  - Outcomes: [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
-- 2025.03 -- 2025.06, Jiaxi Yang, PhD student @ Penn State U.
+- Jiaxi Yang, PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
-
+- Daniel Kalish. Undergraduates at William & Mary.
+  - Serving as adivor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
 
 #### Previous Interns at MSRA (2019 -- 2024)
 
