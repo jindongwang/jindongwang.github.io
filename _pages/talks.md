@@ -61,10 +61,10 @@ nav: true
 
 #### Invited course
 
-- **Transfer learning and large languaeg models**, at City University of Hong Kong. 2023.
+- **Transfer learning and large language models**, at City University of Hong Kong. 2023.
 - **Transfer learning**, at Chinese Academy of Sciences. 2023.
-- **Transfer learning**, at Tsinghua University. Dec. 2019. [[Class photo](http://jd92.wang/image/img_thu.png)]
+- **Transfer learning**, at Tsinghua University. Dec. 2019. [[Class photo](/assets/img/img_thu.png)]
 - **Transfer learning**, at Leiphone, online. Nov. 4, 2017.
-- **On machine learning**, at AI Salon at Shanghai Jiao Tong University, Shanghai, China. Sep. 16, 2017. [[PDF](http://jd92.wang/assets/files/l10_mlsjtu.pdf)] [[Photo](http://jd92.wang/assets/image/20170916.jpg)]
-- **Feature engineering in machine learning**, at Zhihu Live, online. Mar. 19, 2017. [[PDF]](http://jd92.wang/assets/files/l07_zhihu_fe.pdf) [[Visit Live](https://www.zhihu.com/lives/819543866939174912)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
+- **On machine learning**, at AI Salon at Shanghai Jiao Tong University, Shanghai, China. Sep. 16, 2017. [[PDF](/assets/files/l10_mlsjtu.pdf)] [[Photo](/assets/img/20170916.jpg)]
+- **Feature engineering in machine learning**, at Zhihu Live, online. Mar. 19, 2017. [[PDF](/assets/files/l07_zhihu_fe.pdf)] [[Visit Live](https://www.zhihu.com/lives/819543866939174912)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
 - **Machine learning starter**, at Zhihu Live, online. Dec. 22. [[PDF](http://jd92.wang/assets/files/l06_zhihu_ml.pdf)] [[Visit Live](https://www.zhihu.com/lives/792423196996546560?utm_campaign=zhihulive&utm_source=zhihucolumn&utm_medium=Livecolumn)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />

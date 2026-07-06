@@ -50,7 +50,7 @@ nav: true
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
 - Daniel Kalish. Undergraduates at William & Mary.
-  - Serving as adivor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
+  - Serving as advisor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
 
 #### Previous Interns at MSRA (2019 -- 2024)
 

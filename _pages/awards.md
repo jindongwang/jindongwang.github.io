@@ -5,17 +5,17 @@ permalink: /awards/
 nav: true
 ---
 
-- Best Student Paper Award, WWW 2026 workshop on federeted learning. 2026.
+- Best Student Paper Award, WWW 2026 workshop on federated learning. 2026.
 - Gemini Academic Research Award. 2026.
 - Google Awards for Machine Learning Research and Education with TPUs. 2026.
-- AAAI 2026 Oustanding Senior Program Committee Member Award (35 out of 1700). 2026.
+- AAAI 2026 Outstanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Grant Program 2025.
 - Amazon Research Award 2025.
 - Google Unrestricted Research Gift. 2025.
 - AMD University Program AI&HPC Award 2025.
 - William & Mary Faculty Research Award 2025.
 - Microsoft Accelerate Foundation Model Research (AFMR) Award 2025.
-- Best Paper Award, AAAI 2025 workshop on Preparaing Good Data for Generative AI. 2025.
+- Best Paper Award, AAAI 2025 workshop on Preparing Good Data for Generative AI. 2025.
 - Outstanding Paper Award, NeurIPS 2024 workshop on Federated Foundation Models. 2024.
 - Rising Star in AI, awarded by KAUST AI Initiative headed by Prof. Jürgen Schmidhuber. [[Web](https://cemse.kaust.edu.sa/ai/aii-symp-2024)]
 - World's Top 2% Scientist by Stanford University, 2022 - 2025. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
