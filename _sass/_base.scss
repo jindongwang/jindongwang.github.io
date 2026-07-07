@@ -49,6 +49,24 @@ table.table a {
   }
 }
 
+.news {
+  table,
+  table td,
+  table th {
+    color: var(--global-text-color);
+    -webkit-text-fill-color: currentColor;
+  }
+
+  table td {
+    font-weight: 400;
+  }
+
+  table.table a {
+    color: var(--global-theme-color);
+    -webkit-text-fill-color: currentColor;
+  }
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {
