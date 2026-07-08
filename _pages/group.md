@@ -18,9 +18,6 @@ nav: true
 - [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
-- [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
-  - Topics: LLM and psychology.
-  - Outcomes: [Emotional SLM](https://arxiv.org/abs/2604.06562)
 - [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882)
@@ -29,9 +26,6 @@ nav: true
 - [Chika Maduabuchi](https://chikap421.github.io/), PhD student @ UC Irvine.
   - Topics: Video diffusion models
   - Outcomes: [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
-- [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
-  - Topics: LLM enhancement, AI for education.
-  - Outcomes: [Classroom AI (Nature AI'26)](https://arxiv.org/abs/2601.06225), [Table LLM](https://arxiv.org/abs/2412.17189).
 - Rebecca Huang, Undergraduate @ William & Mary.
   - Topics: LLM for biology.
   - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
@@ -40,6 +34,12 @@ nav: true
 
 
 #### Past Members
+- [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
+  - Topics: LLM and psychology.
+  - Outcomes: [Emotional SLM](https://arxiv.org/abs/2604.06562)
+- [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
+  - Topics: LLM enhancement, AI for education.
+  - Outcomes: [Classroom AI (Nature AI'26)](https://arxiv.org/abs/2601.06225), [Table LLM](https://arxiv.org/abs/2412.17189).
 - Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
   - Visting scholar during 2025.07 -- 2025.09.
 - Mengqi Zhang, PhD @ William & Mary.
