@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Group
+title: Lab
 permalink: /group/
 nav: true
 ---
+
+<div class="text-center mb-4">
+  <img src="{{ '/assets/img/lab-logo.png' | relative_url }}" alt="AI Frontier Lab logo" style="max-width: 760px; width: 100%; height: auto;">
+</div>
 
 #### Team Members
 
