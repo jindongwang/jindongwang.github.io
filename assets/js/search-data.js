@@ -713,4 +713,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-by-eccv-2026-congrats",
           title: 'One paper is accepted by ECCV 2026. Congrats!',
           description: "",
+          section: "News",},{id: "news-one-paper-on-personalized-safety-of-vlms-is-accepted-by-colm-2026-congrats",
+          title: 'One paper on personalized safety of VLMs is accepted by COLM 2026. Congrats!...',
+          description: "",
           section: "News",},];
