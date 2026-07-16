@@ -30,6 +30,7 @@ nav: true
 
 #### Recent Preprints
 
+- Beyond Structural Unification: A Perspective and Roadmap on Unified Multimodal Models. Yinyi Luo, Hayes Bai, Yiqiao Jin, Wenyue Hua, Srijan Kumar, Marios Savvides, Qingsong Wen, Jindong Wang. [[zenodo](https://zenodo.org/records/20990999)]
 - LatentUMM: Dual Latent Alignment for Unified Multimodal Models. Yinyi Luo, Wenwen Wang, Hayes Bai, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.17766)]
 - UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning. Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.11400)] [[code](https://github.com/AIFrontierLab/TorchUMM/tree/main/src/umm/post_training/unipath)]
 - UniSD: Towards a Unified Self-Distillation Framework for Large Language Models. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Yijia Xiao, Yinyi Luo, Haoxin Liu, B. Aditya Prakash, Josiah Hester, Jindong Wang, Srijan Kumar. [[arxiv](https://arxiv.org/abs/2605.06597)] [[code](https://github.com/Ahren09/UniSD)]
