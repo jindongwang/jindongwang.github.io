@@ -21,6 +21,7 @@ nav: true
     - ICCV 2025 workshop: Trust Before Use: Building Foundation Models that You Can Trust ([TrustFM](https://t2fm-ws.github.io/T2FM-ICCV25/index.html))
     - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - **Area Chair**:
+    - AAAI 2027
     - NeurIPS 2026, 2025, 2024, 2023
     - ICML 2026, 2025
     - ICLR 2026, 2025
@@ -29,7 +30,7 @@ nav: true
     - ACML 2025, 2024
     - ACL/ARR 2026, 2025
   - **Senior PC**:
-    - AAAI 2027, 2026, 2025, 2024, 2023
+    - AAAI 2026, 2025, 2024, 2023
     - IJCAI 2026, 2025, 2024, 2023
     - CIKM 2026, 2025
     - AIES 2026
