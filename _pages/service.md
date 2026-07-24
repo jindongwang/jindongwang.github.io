@@ -27,7 +27,7 @@ nav: true
     - ICLR 2026, 2025
     - KDD 2027, 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
-    - ACML 2025, 2024
+    - ACML 2026, 2025, 2024
     - ACL/ARR 2026, 2025
   - **Senior PC**:
     - AAAI 2026, 2025, 2024, 2023
