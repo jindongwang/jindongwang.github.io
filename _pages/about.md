@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 Assistant Professor, <a href="https://www.wm.edu/">William & Mary</a><br/>
 jdw [at] wm.edu, jindongwang [at] outlook.com<br>
 Integrated Science Center 3383, Williamsburg, VA, USA<br>
-[Google scholar](https://scholar.google.com/citations?&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) | [Twitter/X](https://twitter.com/jd92wang) | [LinkedIn](https://www.linkedin.com/in/jindong-wang/) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv)
+[Google scholar](https://scholar.google.com/citations?&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) | [Twitter/X](https://twitter.com/jindong_wang92) | [LinkedIn](https://www.linkedin.com/in/jindong-wang/) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv)
 
 **PhD and interns:** [PhD recruitment for 2027 Spring](https://jd92wang.notion.site/Prof-Jindong-Wang-is-recruiting-fully-funded-PhD-students-Fall-2026-295b4ea70d8e8046949bc577a89a740d?source=copy_link), [Internship or collaboration](https://forms.gle/zRcWP49qF9aR1VXW8). [[Chinese blog](https://zhuanlan.zhihu.com/p/1964801935937868094)]
 
