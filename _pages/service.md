@@ -24,7 +24,7 @@ nav: true
     - AAAI 2027
     - NeurIPS 2026, 2025, 2024, 2023
     - ICML 2026, 2025
-    - ICLR 2026, 2025
+    - ICLR 2027, 2026, 2025
     - KDD 2027, 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
     - ACML 2026, 2025, 2024
