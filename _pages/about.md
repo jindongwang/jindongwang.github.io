@@ -22,7 +22,7 @@ Integrated Science Center 3383, Williamsburg, VA, USA<br>
 
 **PhD and interns:** [PhD recruitment for 2027](https://jd92wang.notion.site/Prof-Jindong-Wang-is-recruiting-fully-funded-PhD-students-Fall-2026-295b4ea70d8e8046949bc577a89a740d?source=copy_link), [Internship or collaboration](https://forms.gle/zRcWP49qF9aR1VXW8). [[Chinese blog](https://zhuanlan.zhihu.com/p/1964801935937868094)]
 
-*I am open to industry and university visit, consultant, and more collaboration!*
+*I am open to industry and university visit, consultant, and more collaboration!* [[My calendar](https://go.jd92.wang/cal)]
 
 Dr. Jindong Wang is an Assistant Professor at William & Mary Department of Data Science and also an affiliated faculty member of [Future of Life Institute](https://futureoflife.org/person/jindong-wang/). Previously, he was a Senior Researcher in Microsoft Research Asia from 2019 to 2024. His research interest spans machine learning, large foundation models, and generative AI. He is among [World's Top 2% Highly Cited Scientists](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/) and [Most Influential AI Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962c2a4). He is associate editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), guest editor for ACM Transactions on Intelligent Systems and Technology (TIST), area chair for ICML, NeurIPS, ICLR, KDD, ACL, ACMMM, and ACML, and SPC of IJCAI and AAAI. He published over 60 papers at top-tier venues (27000+ citations, H-index 58).
 His research is supported by William & Mary Faculty Research Award and industrial awards from Amazon, Google, NVIDIA, Microsoft, and AMD.
