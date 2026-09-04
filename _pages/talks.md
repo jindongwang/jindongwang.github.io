@@ -27,6 +27,7 @@ nav: true
 
 #### Invited talks
 
+- **Toward Truly Unified Multimodal Models: Consistency, Coordination, and Latent Alignment**, at Clemson University CS Seminar. Sep. 4, 2026.
 - **Improving Personalization and Consistency of Large Foundation Models**, at Institute for Mathematical and Statistical Innovation (IMSI) workshop: New Horizons on Model Transportability and Data Integration. University of Chicago, June, 2026. [[Video](https://www.imsi.institute/videos/improving-personalization-and-consistency-of-large-foundation-models/)]
 - **Improving Personalization and Consistency of Large Foundation Models**, at UIUC. Apr. 2026.
 - **Improving Personalization and Consistency of Large Foundation Models**, at Texas A&M University. Apr. 2026. [[Website](https://khhuang.me/CSCE638-S26/)]
