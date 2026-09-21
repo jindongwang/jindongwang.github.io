@@ -26,6 +26,7 @@ You are welcome to read the *annual review of my research*: [2025](https://jd92w
 
 #### Media Coverage
 
+- Building Federated Multimodal AI Workflows with NVIDIA FLARE, **NVIDIA Technical Blog**. August 2026. [[Webpage](https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/)]
 - Large language models and prompt engineering, **Epsiloon**. April 2026. [[Webpage](https://www.epsiloon.com/tous-les-numeros/hs18/langage_machine/)]
 - William & Mary Professor Wins Dual Research Awards from Google and Amazon Web Services, **William & Mary News**. November 2025. [[Webpage](https://cdsp.wm.edu/data-science/news/dual-reserach-awards-from-google-and-aws.php)]
 - NeurIPS 2024 with Jindong Wang and Steven Euijong Whang, **Microsoft Research Podcast**. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)] [[Youtube](https://www.youtube.com/watch?v=2l0IBKqliOc)]
