@@ -9,7 +9,7 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)]  [[DBLP](https://dblp.org/pid/19/2969-1.html)]  [[View by topic](https://jd92.wang/research/)]
 
-**Selected venues:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (13), ICML (13), ACL (9), KDD (3), IEEE TPAMI (2), CVPR (4), IEEE TKDE (4), AAAI (1), ICCV (1), ECCV (1), IJCAI (3), UbiComp (3), MM (1). 
+**Selected venues:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (18), ICML (13), ACL (9), KDD (3), IEEE TPAMI (2), CVPR (4), IEEE TKDE (4), AAAI (1), ICCV (1), ECCV (1), IJCAI (3), UbiComp (3), MM (1).
 
 #### Seleted Publications
 
@@ -32,12 +32,9 @@ nav: true
 
 - Beyond Structural Unification: A Perspective and Roadmap on Unified Multimodal Models. Yinyi Luo, Hayes Bai, Yiqiao Jin, Wenyue Hua, Srijan Kumar, Marios Savvides, Qingsong Wen, Jindong Wang. [[zenodo](https://zenodo.org/records/20990999)]
 - LatentUMM: Dual Latent Alignment for Unified Multimodal Models. Yinyi Luo, Wenwen Wang, Hayes Bai, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.17766)]
-- UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning. Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.11400)] [[code](https://github.com/AIFrontierLab/TorchUMM/tree/main/src/umm/post_training/unipath)]
 - UniSD: Towards a Unified Self-Distillation Framework for Large Language Models. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Yijia Xiao, Yinyi Luo, Haoxin Liu, B. Aditya Prakash, Josiah Hester, Jindong Wang, Srijan Kumar. [[arxiv](https://arxiv.org/abs/2605.06597)] [[code](https://github.com/Ahren09/UniSD)]
-- TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training. Yinyi Luo, Wenwen Wang, Hayes Bai, Hongyu Zhu, Hao Chen, Pan He, Marios Savvides, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2604.10784)] [[code](https://github.com/AIFrontierLab/TorchUMM)]
 - On Emotion-Sensitive Decision Making of Small Language Model Agents. Jiaju Lin, Xingjian Du, Qingyun Wu, Ellen Wenting Zou, Jindong Wang. [[arxiv](https://arxiv.org/abs/2604.06562)]
 - Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies. Hanzhong Zhang, Siyang Song, Jindong Wang. [[arXiv](https://arxiv.org/abs/2603.23406)] [[code](https://github.com/armihia/CMASE-Endogenous-Stances)]
-- AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent. Yinyi Luo, Yiqiao Jin, Weichen Yu, Mengqi Zhang, Srijan Kumar, Xiaoxiao Li, Weijie Xu, Xin Chen, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2602.03955)] [[code](https://github.com/AIFrontierLab/AgentArk)]
 - Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents. Jiatong Li, Changdae Oh, Hyeong Kyu Choi, Jindong Wang, Sharon Li. [[arxiv](https://arxiv.org/abs/2602.07796)] [[code](https://github.com/deeplearning-wisc/Thinking-Agent)]
 - Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries. Hanzhong Zhang, Muhua Huang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2508.17366)]
 - Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
