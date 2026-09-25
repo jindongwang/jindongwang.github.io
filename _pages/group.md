@@ -15,10 +15,10 @@ nav: true
   - Topics: Foundation model personalization.
 - Hayes H. Bai. PhD student.
   - Topics: Unified multimodal models, foundation models, and machine learning.
-  - Outcomes: [UniPath](https://arxiv.org/pdf/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784)
+  - Outcomes: [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
 - Yinyi Luo, PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation, unified multimodal models.
-  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM](https://arxiv.org/abs/2604.10784), [UniPath](https://arxiv.org/pdf/2605.11400)
+  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400)
 - [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD student @ U. Washington.
   - Topics: Personalized safety, alignment
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882), [personalized VLM safety (COLM'26)](https://arxiv.org/abs/2609.04281v1)
@@ -26,10 +26,10 @@ nav: true
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882), [personalized VLM safety (COLM'26)](https://arxiv.org/abs/2609.04281v1)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
-  - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597), [Topological structure](https://arxiv.org/abs/2505.22467), [AgentReview](https://arxiv.org/abs/2406.12708), [Roadmap for UMM](https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models), [AgentArk](https://www.arxiv.org/abs/2602.03955)
+  - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597), [Topological structure](https://arxiv.org/abs/2505.22467), [AgentReview](https://arxiv.org/abs/2406.12708), [Roadmap for UMM](https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955)
 - [Chika Maduabuchi](https://chikap421.github.io/), PhD student @ UC Irvine.
   - Topics: Video diffusion models
-  - Outcomes: [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
+  - Outcomes: [Temporal Pair Consistency (NeurIPS'26)](https://arxiv.org/abs/2602.04908), [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
 - Rebecca Huang, Undergraduate @ William & Mary.
   - Topics: LLM for biology.
   - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
