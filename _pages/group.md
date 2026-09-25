@@ -13,7 +13,7 @@ nav: true
 
 - Zhi Yang. PhD student. 
   - Topics: Foundation model personalization.
-- Hayes H. Bai. PhD student.
+- Hayes H. Bai. PhD student. (Walter J. Zable Graduate Fellowship)
   - Topics: Unified multimodal models, foundation models, and machine learning.
   - Outcomes: [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
 - Yinyi Luo, PhD @ Carnegie Mellon University.
