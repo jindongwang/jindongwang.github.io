@@ -7,6 +7,7 @@ nav: true
 
 #### Journal
 
+  - **Action editor**, Transactions on Machine Learning Research (TMLR)
   - **Associate editor**, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - **Lead guest editor**, ACM Transactions on Intelligence Systems and Technology (TIST)
   - **Associate editor**, Journal of Computer Science and Technology (JCST)
