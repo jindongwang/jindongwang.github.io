@@ -34,6 +34,8 @@ nav: true
   - Topics: LLM for biology.
   - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
 
+[PhD recruitment](/phd/)
+
 [Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
 
 
