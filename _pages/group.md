@@ -11,12 +11,12 @@ nav: true
 
 #### Team Members
 
-- Zhi Yang. PhD student. 
-  - Topics: Foundation model personalization.
-- Hayes H. Bai. PhD student. (Walter J. Zable Graduate Fellowship)
+- [Haoyue Bai](https://haoyue-bai-academic.baihaoyue621.chatgpt.site/). PhD student. ([Walter J. Zable Graduate Fellowship](https://www.wm.edu/as/graduate/studentresources/honors-awards/zable/))
   - Topics: Unified multimodal models, foundation models, and machine learning.
   - Outcomes: [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
-- Yinyi Luo, PhD @ Carnegie Mellon University.
+- [Zhi Yang](https://ruayz.github.io/). PhD student.
+  - Topics: Foundation model personalization.
+- [Yinyi Luo](https://scholar.google.com/citations?hl=en&user=oJz2IEgAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation, unified multimodal models.
   - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
@@ -37,22 +37,22 @@ nav: true
 - [Edward Sun](https://edwardosunny.github.io/), Undergraduate @ UCLA.
   - Topics: LLM agent, safety.
   - Outcomes: [Personalized safety (NeurIPS'25)](https://www.arxiv.org/abs/2505.18882), [personalized VLM safety (COLM'26)](https://arxiv.org/abs/2609.04281v1)
-- [Chika Maduabuchi](https://chikap421.github.io/), PhD student @ UC Irvine.
+- [Chika Maduabuchi](https://scholar.google.com/citations?hl=en&user=YrLydoQAAAAJ&view_op=list_works&sortby=pubdate), PhD student @ UC Irvine.
   - Topics: Video diffusion models
   - Outcomes: [Temporal Pair Consistency (NeurIPS'26)](https://arxiv.org/abs/2602.04908), [EVD (ECCV'26)](https://arxiv.org/abs/2603.13402), [Video diffusion (ICLR'26 workshop)](https://arxiv.org/abs/2505.21545)
 - [Jiaju Lin](https://jiaju-lin-97.github.io/), PhD student @ Penn State U.
   - Topics: LLM and psychology.
   - Outcomes: [Emotional SLM](https://arxiv.org/abs/2604.06562)
-- [Jio Oh](https://www.jiooh.com/home), PhD student @ KAIST, South Korea.
+- [Jio Oh](https://www.jiooh.com/), PhD student @ KAIST, South Korea.
   - Topics: LLM enhancement, AI for education.
   - Outcomes: [Classroom AI (Nature AI'26)](https://arxiv.org/abs/2601.06225), [Table LLM](https://arxiv.org/abs/2412.17189).
-- Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
+- [Dinesh Karthikeyan](https://www.jyu.fi/en/people/dinesh-karthikeyan), postdoc @ University of Jyväskylä, Finnland.
   - Visting scholar during 2025.07 -- 2025.09.
 - Mengqi Zhang, PhD @ William & Mary.
-- Hanzhong Zhang. PhD at U. Exeter.
+- [Hanzhong Zhang](https://scholar.google.com/citations?user=94qqYBYAAAAJ&hl=zh-CN). PhD at U. Exeter.
   - Topics: LLM and society.
-  - Outcomes: [CMASE](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)
-- Jiaxi Yang, PhD student @ Penn State U.
+  - Outcomes: [CMASE (ACM TSC'26)](https://arxiv.org/abs/2508.17366), [Generative Societies](https://arxiv.org/abs/2603.23406)
+- [Jiaxi Yang](https://abbottyanginchina.github.io/), PhD student @ Penn State U.
   - Topics: LLM agent.
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
 - Daniel Kalish. Undergraduates at William & Mary.
@@ -62,22 +62,22 @@ nav: true
 
 Overall: 5.5 years, 18 interns (5 female), 1 top-tier paper/per person/per 6 months.
 
-- 2024.09 -- 2024.12, Jio Oh, master @ KAIST, South Korea.
+- 2024.09 -- 2024.12, [Jio Oh](https://www.jiooh.com/), master @ KAIST, South Korea.
   - Topics: LLM.
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
-- 2024.09 -- 2024.12, Soyeon Kim, PhD @ KAIST, South Korea.
+- 2024.09 -- 2024.12, [Soyeon Kim](https://sites.google.com/view/ss0-0y/home), PhD @ KAIST, South Korea.
   - Topics: LLM evaluation.
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266), [TDBench (ICLR'26)](https://arxiv.org/abs/2508.02045)
-- 2024.09 -- 2024.12, Miaomiao Li, master @ Institute of Software, CAS. Now: PhD @ Chinese University of Hong Kong.
+- 2024.09 -- 2024.12, [Miaomiao Li](https://scholar.google.com/citations?user=RWmqUJAAAAAJ&hl=en), master @ Institute of Software, CAS. Now: PhD @ Chinese University of Hong Kong.
   - Topics: Bias in LLM.
   - Outcomes during internship: [Bias interitance (ACL'26 Oral)](https://arxiv.org/abs/2502.04419)
-- 2024.05 -- 2024.12, Shudong Liu, PhD @ U. Macau.
+- 2024.05 -- 2024.12, [Shudong Liu](https://sudanl.github.io/), PhD @ U. Macau.
   - Topics: Culture and vision language models.
   - Outcomes during internship: [CultureVLM (CVPR'25 w)](https://arxiv.org/abs/2501.01282)
 - 2024.05 -- 2024.09, Zhiquan Tan, PhD @ Tsinghua U.
   - Topisc: LLM evaluation.
   - Outcomes during internship: [Self-knowledge evaluation](https://arxiv.org/abs/2406.06140)
-- 2024.02 -- 2024.05, Mingxuan Xia, PhD @ Zhejiang U.
+- 2024.02 -- 2024.05, [Mingxuan Xia](https://mingxuanxia.github.io/), PhD @ Zhejiang U.
   - Topics: LLM evaluation.
   - Outcomes during internship: [Prompt Candidates (ACL'25)](https://arxiv.org/abs/2506.03857).
 - 2023.08 -- 2024.06, [Qinlin Zhao](https://www.linkedin.com/in/qinlin-zhao-3a51292b2/), MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
@@ -86,7 +86,7 @@ Overall: 5.5 years, 18 interns (5 female), 1 top-tier paper/per person/per 6 mon
 - 2023.09 -- 2024.05, [Cheng Li](https://scholar.google.com/citations?user=083GCIwAAAAJ), master @ Institute of Software, CAS. Now: PhD @ University of Washington NLP group.
   - Topics: LLM and psychology, culture bias
   - Ourcomes during internship: [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [NegativePrompt (IJCAI'24)](https://arxiv.org/abs/2405.02814), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2402.10946), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [MentalArena](https://arxiv.org/abs/2410.06845)
-- 2023.03 -- 2024.04, [Kaijie Zhu](https://immortalise.github.io/), master @ Institute of Automation, CAS. Now: Phd @ UCSB.
+- 2023.03 -- 2024.04, [Kaijie Zhu](https://kaijiezhu11.github.io/), master @ Institute of Automation, CAS. Now: Phd @ UCSB.
   - Topics: LLM evaluation
   - Outcomes during internship: [DyVal 2 (ICML'24)](https://arxiv.org/abs/2402.14865), [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [RiFT (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
 - 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: Google Deepmind.
