@@ -30,6 +30,7 @@ nav: true
 
 #### Recent Preprints
 
+- FlexUMM: Flexible Representation Learning for Unified Multimodal Models. Yinyi Luo, Haoyue Bai, Yi Ge, Nilton Cesar Rojas Vales, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.22682)]
 - Lluna: Collaborative Unimodal Models for Missing-Modality Inference. Haoyue Bai, Yinyi Luo, Heqing Huang, Xiaoyuan Yi, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.20526)]
 - Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Bing He, Siheng Xiong, Yijia Xiao, B. Aditya Prakash, Josiah Hester, Srijan Kumar, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.01257)]
 - Beyond Structural Unification: A Perspective and Roadmap on Unified Multimodal Models. Yinyi Luo, Hayes Bai, Yiqiao Jin, Wenyue Hua, Srijan Kumar, Marios Savvides, Qingsong Wen, Jindong Wang. [[zenodo](https://zenodo.org/records/20990999)]
