@@ -13,17 +13,17 @@ nav: true
 
 - [Haoyue Bai](https://haoyue-bai-academic.baihaoyue621.chatgpt.site/). PhD student. ([Walter J. Zable Graduate Fellowship](https://www.wm.edu/as/graduate/studentresources/honors-awards/zable/))
   - Topics: Unified multimodal models, foundation models, and machine learning.
-  - Outcomes: [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
+  - Outcomes: [FlexUMM](https://arxiv.org/abs/2610.22682), [Lluna](https://arxiv.org/abs/2610.20526), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
 - [Zhi Yang](https://ruayz.github.io/). PhD student.
   - Topics: Foundation model personalization.
 - [Yinyi Luo](https://scholar.google.com/citations?hl=en&user=oJz2IEgAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation, unified multimodal models.
-  - Outcomes: [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400)
+  - Outcomes: [FlexUMM](https://arxiv.org/abs/2610.22682), [Lluna](https://arxiv.org/abs/2610.20526), [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400)
 - [Yiqiao Jin](https://ahren09.github.io/), PhD student @ Georgia Tech.
-  - Outcomes: [UniSD](https://arxiv.org/abs/2605.06597), [Topological structure](https://arxiv.org/abs/2505.22467), [AgentReview](https://arxiv.org/abs/2406.12708), [Roadmap for UMM](https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955)
+  - Outcomes: [Science Utopia](https://arxiv.org/abs/2610.01257), [UniSD](https://arxiv.org/abs/2605.06597), [Topological structure](https://arxiv.org/abs/2505.22467), [AgentReview](https://arxiv.org/abs/2406.12708), [Roadmap for UMM](https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955)
 - Rebecca Huang, Undergraduate @ William & Mary.
   - Topics: LLM for biology.
-  - Outcomes: Selected for Charles Center Summer Research Grant 2026 ($4,000)
+  - Outcomes: [Lluna](https://arxiv.org/abs/2610.20526), Selected for Charles Center Summer Research Grant 2026 ($4,000)
 
 [PhD recruitment](/phd/)
 
