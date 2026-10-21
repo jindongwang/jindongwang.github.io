@@ -728,4 +728,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-group-has-5-papers-accepted-by-neurips-2026-congrats-to-all-authors",
           title: 'Our group has 5 papers accepted by NeurIPS 2026. Congrats to all authors!...',
           description: "",
+          section: "News",},{id: "news-invited-to-be-an-area-chair-for-icml-2027",
+          title: 'Invited to be an Area Chair for ICML 2027.',
+          description: "",
           section: "News",},];
