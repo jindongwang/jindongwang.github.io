@@ -24,7 +24,7 @@ nav: true
   - **Area Chair**:
     - AAAI 2027
     - NeurIPS 2026, 2025, 2024, 2023
-    - ICML 2026, 2025
+    - ICML 2027, 2026, 2025
     - ICLR 2027, 2026, 2025
     - KDD 2027, 2026, 2025, 2024
     - ACM Multimedia (MM) 2024
