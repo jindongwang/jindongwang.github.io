@@ -1,0 +1,277 @@
+---
+layout: page
+title: "DATA 405/603: Trustworthy AI (Fall 2026)"
+permalink: /fall26
+nav: false
+---
+
+<!-- Snapshot of the course Notion page. Update only when requested. -->
+{% raw %}
+<div class="course-content">
+<p><a href="https://jd92wang.notion.site/365b4ea70d8e809f9be4d52984302eb0">View course in Notion</a></p>
+<h2>Course information</h2>
+<p>• <b>Instructor:</b> Jindong Wang</p>
+<p>• <b>When:</b> 8-9:20am, Tuesday and Thursday</p>
+<p>• <b>Office hours: </b>9:30-10:30am, Thursday</p>
+<p>• <b>Email group:</b> trustai-fall26@lists.wm.edu</p>
+<p>• <b>Duration:</b> 08/26/2026 — 12/01/2026</p>
+<p>• <b>Where:</b> ISC 3280</p>
+<p>• <b>Website: </b><a href="https://go.jd92.wang/fall26">https://go.jd92.wang/fall26</a></p>
+
+<p />
+
+
+
+<h2>Course overview</h2>
+
+What on your mind when presented the word “trustworthy”? In the era of machine learning, deep learning, and generative AI, the need for trustworthiness has never been so pressing. The key to ensure AI safety is to build a great wall of trustworthiness. In this course, we will cover several key topics related to trustworthy AI, including, but not limited to: robustness, generalization, responsibility, privacy, security, safety, and interpretability. By taking this course, students will form a basic understanding of essential concepts of trustworthiness, learn how to think beyond an existing AI system, develop key skills to deal with different untrustworthy conditions, read relevant paper, and even write their own research ideas. This course will have flexible forms, including lectures, guest lectures, paper reading, homework, and group projects.
+
+<h2>Syllabus</h2>
+
+<b>Note 1:</b> the following table contains all contents but may be subject to change since I could be traveling to other conferences or events, and/or the guest lecturers could be changed due to their private matters. Please be aware of my emails.
+
+<b>Note 2:</b> each class lasts 80 minutes = 55min lecture + 5min buffer + 20min presentation. Each student is supposed to finish one presentation. For those who do not finish the presentations during the lecture sessions can present in the rest of the class (i.e., week 13, 14, or 15).
+
+<table header-row="true">
+<colgroup>
+<col width="87.64014434814453" />
+<col width="200.12120056152344" />
+<col width="339.984375" />
+<col />
+</colgroup>
+<tr>
+<td>
+Week
+</td>
+<td>
+Topic/Content
+</td>
+<td>
+Resources/Suggested Reading
+</td>
+<td>
+Note
+</td>
+</tr>
+<tr>
+<td>
+1 (08/27)
+</td>
+<td>
+L01: Introduction
+</td>
+<td>
+1. <a href="https://mltrust.github.io/">KDD 2023 tutorial: Trustworthy Machine Learning</a><br />2. <a href="https://dl.acm.org/doi/full/10.1145/3555803">Trustworthy AI: From Principles to Practices</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+2 (09/01, 09/03)
+</td>
+<td>
+L02: Basics of ML, DL, and Large Language Models
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2108.07258">On the Opportunities and Risks of Foundation Models</a><br />2. <a href="https://www.youtube.com/watch?v=_6R7Ym6Vy_I">What is Generative AI and How Does It Work?</a> (video)
+</td>
+<td>
+Homework 1 starts
+</td>
+</tr>
+<tr>
+<td>
+3 (09/08, 09/10)
+</td>
+<td>
+L03: Generalization 1—Transfer Learning
+</td>
+<td>
+1. <a href="https://jd92.wang/tlbook/">Introduction to Transfer Learning</a><br />2. <a href="https://arxiv.org/abs/1911.02685">A Comprehensive Survey on Transfer Learning</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+4 (09/15, 09/17)
+</td>
+<td>
+L04: Generalization 2—Domain Generalization
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2103.03097">Generalizing to Unseen Domains: A Survey on Domain Generalization</a><br />2. <a href="https://dgresearch.github.io/">IJCAI 2022 Tutorial on Domain Generalization</a><br />3. <a href="https://arxiv.org/abs/2308.02282">DIVERSIFY: A General Framework for Time Series Out-of-Distribution Detection and Generalization</a><br />4. <a href="https://ood-timeseries.github.io/">AAAI 2024 tutorial on OOD generalization for time series</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+5 (09/22, 09/24)
+</td>
+<td>
+ L05: Generalization 3—Weekly Supervised Learning
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2002.05709">SimCLR: A Simple Framework for Contrastive Learning of Visual Representations</a><br />2. <a href="https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper">Masked autoencoders are scalable vision learners</a><br />3. <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html">Momentum contrast for unsupervised visual representation learning</a><br />4. <a href="https://arxiv.org/abs/2001.07685">FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence</a><br />5. <a href="https://arxiv.org/abs/2110.08263">FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling</a>
+</td>
+<td>
+Homework 1 due
+</td>
+</tr>
+<tr>
+<td>
+6 (09/29, 10/01)
+</td>
+<td>
+L06: Robustness and Security 1—Adversarial Robustness 
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/1412.6572">Explaining and Harnessing Adversarial Examples</a><br />2. <a href="https://arxiv.org/abs/1706.06083">Towards Deep Learning Models Resistant to Adversarial Attacks</a><br />3. <a href="https://arxiv.org/abs/1708.06733">BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain</a>
+</td>
+<td>
+Homework 2 starts
+</td>
+</tr>
+<tr>
+<td>
+7 (10/06, <s>10/08</s>)
+</td>
+<td>
+L07: Robustness and Security 2—LLM Security
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2309.17167">Dyval: Dynamic evaluation of large language models for reasoning tasks</a><br />2. <a href="https://arxiv.org/abs/2312.11111">The good, the bad, and why: Unveiling emotions in generative ai</a><br />3. <a href="https://arxiv.org/abs/2309.17002">Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks</a>
+</td>
+<td>
+Fall break: 10/08-10/11
+</td>
+</tr>
+<tr>
+<td>
+8 (10/13, 10/15)
+</td>
+<td>
+Guest Lecture: Prof. Kuan-Hao Huang from TAMU<br />L07: Robustness and Security 2—LLM Security
+</td>
+<td>
+  1. <a href="https://ieeexplore.ieee.org/abstract/document/9802938">Backdoor learning: a survey</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+9 (10/20, 10/22)
+</td>
+<td>
+L08: Robustness and Security 3—Backdoor Attack<br />L09: Privacy 1—AI Privacy
+</td>
+<td>
+1. <a href="https://ieeexplore.ieee.org/abstract/document/7958568/">Membership inference attacks against machine learning models</a><br />2. <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting">Extracting Training Data from Large Language Models</a><br />3. <a href="https://dl.acm.org/doi/abs/10.1145/3593013.3594067">Regulating ChatGPT and Other Large Generative AI Models: A Privacy and Data Protection Perspective</a>
+</td>
+<td>
+Homework 2 due
+</td>
+</tr>
+<tr>
+<td>
+10 (10/27, 10/29)
+</td>
+<td>
+L10: Privacy 2—Federated Learning
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2302.13485">FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning</a><br />2. <a href="https://federated-learning.org/fl-ijcai-2022/Papers/FL-IJCAI-22_paper_10.pdf">MetaFed: Federated Learning among Federations with Cyclic Knowledge Distillation for Personalized Healthcare</a>
+</td>
+<td>
+Homework 3 starts
+</td>
+</tr>
+<tr>
+<td>
+11 (<s>11/03</s>, 11/05)
+</td>
+<td>
+L11: Privacy 3—Personalization<br />
+</td>
+<td>
+  1. <a href="https://aclanthology.org/2024.findings-emnlp.969.pdf">Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization</a><br />  2. <a href="https://arxiv.org/abs/2411.00027">Personalization of Large Language Models: A Survey</a>
+</td>
+<td>
+11/03: Election Day, No Class
+</td>
+</tr>
+<tr>
+<td>
+12 (11/10, 11/12)
+</td>
+<td>
+Guest lecture 2: Millicent Ochieng from Microsoft Research<br />L11: Privacy 3—Personalization
+</td>
+<td>
+1. <a href="https://arxiv.org/abs/2405.15145">CulturePark: Boosting Cross-cultural Understanding in Large Language Models</a><br />2. <a href="https://dl.acm.org/doi/pdf/10.1145/3689217.3690621">Promptrobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts</a><br />3. <a href="https://arxiv.org/abs/2212.08073">Constitutional AI: Harmlessness from AI Feedback</a>
+</td>
+<td>
+Homework 3 due<br />Homework 4 starts
+</td>
+</tr>
+<tr>
+<td>
+13 (11/17, 11/19)
+</td>
+<td>
+L12: Human-AI Alignment<br /><br /><br />
+</td>
+<td>
+1. <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287598">Fairness and Abstraction in Sociotechnical Systems</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+14 (11/24, <s>11/26</s>)
+</td>
+<td>
+L13: Fairness
+</td>
+<td>
+1. <a href="https://dl.acm.org/doi/pdf/10.1145/2939672.2939778?">Why Should I Trust You?": Explaining the Predictions of Any Classifier</a>
+</td>
+<td>
+11/24-Remote;<br />11/25 - 11/29: Thanksgiving Break
+</td>
+</tr>
+<tr>
+<td>
+15 (12/01, 12/03)
+</td>
+<td>
+L14: Interpretability<br />Final project preparation
+</td>
+<td></td>
+<td>
+Homework 4 due
+</td>
+</tr>
+</table>
+
+<h2>Grading</h2>
+<p>• Homework (40%)</p>
+<p>• 4 homework, 10% each</p>
+
+  <p><a href="https://jd92wang.notion.site/365b4ea70d8e81acb2add67fd21a7d0b">Homework</a></p>
+<p>• Paper reading (20%)</p>
+<p>• Each student should present one paper, counting 20%</p>
+
+  <p><a href="https://jd92wang.notion.site/365b4ea70d8e8100bc05f4d92d655e36">Paper reading</a></p>
+<p>• Final Project (40%)</p>
+<p>• Coding + report</p>
+
+  <p><a href="https://jd92wang.notion.site/365b4ea70d8e8159996ac46e41db75af">Final project</a></p>
+
+<h2>Acknowledgements</h2>
+<p>• Winter 2024: Trustworthy AI (CIS582), University of Michigan</p>
+
+<p />
+</div>
+<style>.course-content{overflow-wrap:anywhere}.course-content table{width:100%;display:block;overflow-x:auto;border-collapse:collapse}.course-content td,.course-content th{padding:.65rem;border:1px solid #9996;min-width:130px;vertical-align:top}.course-content h2{margin-top:2rem}</style>
+{% endraw %}
+

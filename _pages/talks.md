@@ -8,7 +8,7 @@ nav: true
 #### Teaching at William & Mary
 
 - Spring 2027: **Generative AI** (DATA 446/622). [[website](/spring27)]
-- Fall 2026: **Trustworthy AI** (DATA 405/603). [[website](https://go.jd92.wang/fall26)]
+- Fall 2026: **Trustworthy AI** (DATA 405/603). [[website](/fall26)]
 - Spring 2026: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring26)]
 - Fall 2025: **Generative AI** (DATA 446/622). [[website](https://go.jd92.wang/fall25-genai)]
 - Spring 2025: **Trustworthy AI** (DATA 440/691). [[website](https://go.jd92.wang/spring25)]
