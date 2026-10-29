@@ -731,4 +731,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-be-an-area-chair-for-icml-2027",
           title: 'Invited to be an Area Chair for ICML 2027.',
           description: "",
+          section: "News",},{id: "news-invited-to-be-a-senior-program-committee-spc-member-for-ijcai-2027",
+          title: 'Invited to be a Senior Program Committee (SPC) member for IJCAI 2027.',
+          description: "",
           section: "News",},];
