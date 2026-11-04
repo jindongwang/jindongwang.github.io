@@ -734,7 +734,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-be-a-senior-program-committee-spc-member-for-ijcai-2027",
           title: 'Invited to be a Senior Program Committee (SPC) member for IJCAI 2027.',
           description: "",
-          section: "News",},{id: "news-our-paper-received-a-10-year-most-influential-paper-award",
-          title: 'Our paper received a 10-Year Most Influential Paper Award!',
+          section: "News",},{id: "news-our-icdm-2017-paper-balanced-distribution-adaptation-for-transfer-learning-received-the-10-year-most-influential-paper-award-at-ieee-icdm-2026",
+          title: 'Our ICDM 2017 paper, Balanced Distribution Adaptation for Transfer Learning, received the 10-Year...',
           description: "",
           section: "News",},];
