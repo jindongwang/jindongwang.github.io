@@ -11,8 +11,9 @@ nav: true
 
 **Selected venues:** Nature (1), Nature portfolio journal (1), ICLR (14), NeurIPS (18), ICML (13), ACL (9), KDD (3), IEEE TPAMI (2), CVPR (4), IEEE TKDE (4), AAAI (1), ICCV (1), ECCV (1), IJCAI (3), UbiComp (3), MM (1).
 
-#### Seleted Publications
+#### Selected Publications
 
+- **[ICDM'17]** [Balanced Distribution Adaptation for Transfer Learning](/assets/files/a08_icdm17.pdf). **(10-Year Most Influential Paper Award, IEEE ICDM 2026; 700+ citations; most cited paper in ICDM'17)**
 - **[Nature'26]** General scales unlock ai evaluation with explanatory and predictive power. 
 - **[Nature AI'26]** Classroom AI: large language models as grade-specific teachers.
 - **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1400+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
@@ -25,7 +26,6 @@ nav: true
 - **[IEEE TPAMI'24]** DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization.
 - **[CIKM'21]** Adarnn: Adaptive learning and forecasting of time series. **(Paperdigest most influencial paper)**
 - **[ACM MM'18 Oral]** Visual domain adaptation with manifold embedded distribution alignment. **(800 Citations; 2nd most cited paper in MM'18)**
-- **[ICDM'17]** Balanced distribution adaptation for transfer learning. **(700 Citations; most cited paper in ICDM'17)**
 
 
 #### Recent Preprints
