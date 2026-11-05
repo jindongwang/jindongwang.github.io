@@ -5,7 +5,7 @@ permalink: /awards/
 nav: true
 ---
 
-- **10-Year Most Influential Paper Award**, IEEE ICDM 2026, for [Balanced Distribution Adaptation for Transfer Learning](/assets/files/a08_icdm17.pdf) (ICDM 2017).
+- **10-Year Most Influential Paper Award**, IEEE ICDM 2026, for an ICDM 2017 paper.
 - Best Student Paper Award, WWW 2026 workshop on federated learning. 2026.
 - Gemini Academic Research Award. 2026.
 - Google Awards for Machine Learning Research and Education with TPUs. 2026.
