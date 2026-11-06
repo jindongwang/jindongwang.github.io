@@ -13,7 +13,7 @@ nav: true
 
 #### Selected Publications
 
-- **[ICDM'17]** [Balanced Distribution Adaptation for Transfer Learning](/assets/files/a08_icdm17.pdf). **(10-Year Most Influential Paper Award, IEEE ICDM 2026; 700+ citations; most cited paper in ICDM'17)**
+- **[ICDM'17]** Balanced Distribution Adaptation for Transfer Learning. **(10-Year Most Influential Paper Award, IEEE ICDM 2026; 700+ citations; most cited paper in ICDM'17)**
 - **[Nature'26]** General scales unlock ai evaluation with explanatory and predictive power. 
 - **[Nature AI'26]** Classroom AI: large language models as grade-specific teachers.
 - **[NeurIPS'21]** Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling. **(1400+ Citations; Top 17 most cited NeurIPS papers in the past 5 years)**
@@ -33,7 +33,6 @@ nav: true
 - FlexUMM: Flexible Representation Learning for Unified Multimodal Models. Yinyi Luo, Haoyue Bai, Yi Ge, Nilton Cesar Rojas Vales, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.22682)]
 - Lluna: Collaborative Unimodal Models for Missing-Modality Inference. Haoyue Bai, Yinyi Luo, Heqing Huang, Xiaoyuan Yi, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.20526)]
 - Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Bing He, Siheng Xiong, Yijia Xiao, B. Aditya Prakash, Josiah Hester, Srijan Kumar, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.01257)]
-- Beyond Structural Unification: A Perspective and Roadmap on Unified Multimodal Models. Yinyi Luo, Hayes Bai, Yiqiao Jin, Wenyue Hua, Srijan Kumar, Marios Savvides, Qingsong Wen, Jindong Wang. [[zenodo](https://zenodo.org/records/20990999)]
 - LatentUMM: Dual Latent Alignment for Unified Multimodal Models. Yinyi Luo, Wenwen Wang, Hayes Bai, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2605.17766)]
 - UniSD: Towards a Unified Self-Distillation Framework for Large Language Models. Yiqiao Jin, Yiyang Wang, Lucheng Fu, Yijia Xiao, Yinyi Luo, Haoxin Liu, B. Aditya Prakash, Josiah Hester, Jindong Wang, Srijan Kumar. [[arxiv](https://arxiv.org/abs/2605.06597)] [[code](https://github.com/Ahren09/UniSD)]
 - On Emotion-Sensitive Decision Making of Small Language Model Agents. Jiaju Lin, Xingjian Du, Qingyun Wu, Ellen Wenting Zou, Jindong Wang. [[arxiv](https://arxiv.org/abs/2604.06562)]
