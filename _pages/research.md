@@ -26,6 +26,7 @@ You are welcome to read the *annual review of my research*: [2025](https://jd92w
 
 #### Media Coverage
 
+- Anthropic says you can’t be mean to Claude. It’s not about feelings, by **CNN**. November 2026. [[Webpage](https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban)]
 - Building Federated Multimodal AI Workflows with NVIDIA FLARE, **NVIDIA Technical Blog**. August 2026. [[Webpage](https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/)]
 - Large language models and prompt engineering, **Epsiloon**. April 2026. [[Webpage](https://www.epsiloon.com/tous-les-numeros/hs18/langage_machine/)]
 - William & Mary Professor Wins Dual Research Awards from Google and Amazon Web Services, **William & Mary News**. November 2025. [[Webpage](https://cdsp.wm.edu/data-science/news/dual-reserach-awards-from-google-and-aws.php)]
