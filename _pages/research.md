@@ -10,7 +10,7 @@ The long-term research goal is to understand and improve modern AI models (e.g.,
 You are welcome to read the *annual review of my research*: [2025](https://jd92wang.notion.site/My-Research-in-2025-A-Review-2cdb4ea70d8e80248b6feec9fdc3a99b), [2024](https://jd92wang.notion.site/My-Research-in-2024-A-Review-157b4ea70d8e80cf9cabe45c72844846?source=copy_link), [2023](https://jd92wang.notion.site/My-Research-in-2023-A-Review-e8501114977d44b99cb01ae57e1f0856?source=copy_link).
 
 <center>
-<img src="../assets/img/research.png" style="width: 85%"/>
+<a href="../assets/img/research-overview-2026.png"><img src="../assets/img/research-overview-2026.png" alt="Research overview of AI evaluation, personalization and alignment, agentic AI, consistent unified multimodal models, catastrophic inheritance, and trustworthy machine learning, contributing theory, algorithms, applications, and open-source tools." style="width: 100%; height: auto;"/></a>
 </center>
 
 - **Philosophy of language models:** understand how LMs work and their limitations.
