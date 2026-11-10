@@ -24,6 +24,7 @@ nav: true
 - Rebecca Huang, Undergraduate @ William & Mary.
   - Topics: LLM for biology.
   - Outcomes: [Lluna](https://arxiv.org/abs/2610.20526), Selected for Charles Center Summer Research Grant 2026 ($4,000)
+{: .lab-member-grid role="list"}
 
 [PhD recruitment](/phd/)
 
@@ -57,6 +58,7 @@ nav: true
   - Outcomes: [Agent topology](https://arxiv.org/abs/2505.22467)
 - Daniel Kalish. Undergraduates at William & Mary.
   - Serving as advisor on his undergraduate thesis, which won the [Undergraduate Honors Theses](https://scholarworks.wm.edu/items/651a0752-1971-4f63-b0c5-e8e7273345eb).
+{: .lab-member-grid role="list"}
 
 #### Previous Interns at MSRA (2019 -- 2024)
 
@@ -115,7 +117,10 @@ Overall: 5.5 years, 18 interns (5 female), 1 top-tier paper/per person/per 6 mon
   - Publications during internship: CIKM'21 (Paperdigest most influential papers).
 - 2019.10 -- 2020.01, Weixin Lu, Bachelor @ Peking University. Now: Ph.D @ New York University.
   - Topics: transfer learning, time series analysis, fintech.
-Previous Collaborating Students:
+{: .lab-member-grid role="list"}
+
+#### Previous Collaborating Students
+
 - Ph.D student at Georgia Institute of Technology: Yiqiao Jin. [AgentReview](https://arxiv.org/abs/2406.12708)
 - Ph.D students at CAS: 
   - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at CAS.
@@ -123,3 +128,4 @@ Previous Collaborating Students:
   - Han Zhu (ICASSP * 2, TASLP). Now: Xiaomi.
   - YiFan Zhang (KDD'23).
 - Ph.D students at University of Tokyo: Yivan Zhang, Wei Wang (ICLR'25).
+{: .lab-member-grid role="list"}
