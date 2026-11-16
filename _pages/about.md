@@ -22,7 +22,7 @@ Integrated Science Center 3383, Williamsburg, VA, USA<br>
 
 **PhD and interns:** [PhD recruitment](/phd/), [Internship or collaboration](https://forms.gle/zRcWP49qF9aR1VXW8). [[Chinese version](/phd/#chinese-version)]
 
-*I am open to industry and university visit, consultant, and more collaboration!* [[My calendar](https://go.jd92.wang/cal)]
+
 
 Dr. Jindong Wang is an Assistant Professor at William & Mary Department of Data Science and also an affiliated faculty member of [Future of Life Institute](https://futureoflife.org/person/jindong-wang/). Previously, he was a Senior Researcher in Microsoft Research Asia from 2019 to 2024. His research interest spans machine learning, large foundation models, and generative AI，aiming to provide a better understanding of AI capabilities and improve AI models to be more robust and trustworthy. He is among [World's Top 2% Highly Cited Scientists](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/) and [Most Influential AI Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962c2a4). He is action editor of TMLR, associate editor of IEEE TNNLS, guest editor for ACM TIST, area chair for ICML, NeurIPS, ICLR, KDD, AAAI, and ACL, and SPC of IJCAI. He published over 60 papers at top-tier venues (27000+ citations, H-index 58).
 His research is supported by William & Mary Faculty Research Award, Virginia Commonwealth, and industrial awards from Amazon, Google, NVIDIA, and AMD, and Microsoft.
