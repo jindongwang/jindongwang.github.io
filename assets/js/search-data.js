@@ -725,16 +725,24 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-be-an-area-chair-for-iclr-2027",
           title: 'Invited to be an Area Chair for ICLR 2027.',
           description: "",
-          section: "News",},{id: "news-our-group-has-5-papers-accepted-by-neurips-2026-congrats-to-all-authors",
-          title: 'Our group has 5 papers accepted by NeurIPS 2026. Congrats to all authors!...',
+          section: "News",},{id: "news-five-papers-accepted-at-neurips-2026",
+          title: 'Five papers accepted at NeurIPS 2026',
           description: "",
-          section: "News",},{id: "news-invited-to-be-an-area-chair-for-icml-2027",
-          title: 'Invited to be an Area Chair for ICML 2027.',
+          section: "News",handler: () => {
+              window.location.href = "/news/neurips26/";
+            },},{id: "news-invited-to-serve-as-icml-2027-area-chair",
+          title: 'Invited to serve as ICML 2027 Area Chair',
           description: "",
-          section: "News",},{id: "news-invited-to-be-a-senior-program-committee-spc-member-for-ijcai-2027",
-          title: 'Invited to be a Senior Program Committee (SPC) member for IJCAI 2027.',
+          section: "News",handler: () => {
+              window.location.href = "/news/icml27-ac/";
+            },},{id: "news-invited-to-serve-on-the-ijcai-2027-senior-program-committee",
+          title: 'Invited to serve on the IJCAI 2027 Senior Program Committee',
           description: "",
-          section: "News",},{id: "news-our-icdm-2017-paper-received-the-10-year-most-influential-paper-award-at-ieee-icdm-2026",
-          title: 'Our ICDM 2017 paper received the 10-Year Most Influential Paper Award at IEEE...',
+          section: "News",handler: () => {
+              window.location.href = "/news/ijcai27-spc/";
+            },},{id: "news-icdm-10-year-highest-impact-paper-award",
+          title: 'ICDM 10-Year Highest Impact Paper Award',
           description: "",
-          section: "News",},];
+          section: "News",handler: () => {
+              window.location.href = "/news/most-influential-paper-award-2026/";
+            },},];
