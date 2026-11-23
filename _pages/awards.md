@@ -5,14 +5,14 @@ permalink: /awards/
 nav: true
 ---
 
-- **10-Year Most Influential Paper Award**, IEEE ICDM 2026, for an ICDM 2017 paper.
+- ICDM 10-Year Highest Impact Paper Award, IEEE ICDM 2026, for an ICDM 2017 paper.
 - Best Student Paper Award, WWW 2026 workshop on federated learning. 2026.
 - Gemini Academic Research Award. 2026.
 - Google Awards for Machine Learning Research and Education with TPUs. 2026.
 - AAAI 2026 Outstanding Senior Program Committee Member Award (35 out of 1700). 2026.
 - NVIDIA Academic Grant Program 2025.
 - Amazon Research Award 2025.
-- Google Unrestricted Research Gift. 2025.
+- Google DeepMind Research Gift (unrestricted). 2025.
 - AMD University Program AI&HPC Award 2025.
 - William & Mary Faculty Research Award 2025.
 - Microsoft Accelerate Foundation Model Research (AFMR) Award 2025.
