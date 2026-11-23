@@ -3,7 +3,7 @@
     <section aria-labelledby="selected-awards">
       <header><h2 id="selected-awards">Selected Awards</h2><a href="{{ '/awards/' | relative_url }}">All awards →</a></header>
       <ul class="home-awards">
-        <li><span>2026</span><div>ICDM 10-Year Highest Impact Paper Award<small>IEEE ICDM 2026 · for an ICDM 2017 paper</small></div></li>
+        <li><span>2026</span><div>ICDM 10-Year Highest Impact Paper Award</div></li>
         <li><span>2026</span><div>Gemini Academic Research Award</div></li>
         <li><span>2025</span><div>Google DeepMind Research Gift</div></li>
         <li><span>2025</span><div>NVIDIA Academic Grant Program</div></li>
@@ -19,13 +19,12 @@
       </dl>
     </section>
     <section aria-labelledby="current-teaching">
-      <header><h2 id="current-teaching">Current Teaching</h2><a href="{{ '/talks/#teaching-at-william--mary' | relative_url }}">All teaching →</a></header>
-      <div class="home-course">
-        <span>Fall 2026</span>
-        <div><a href="{{ '/fall26' | relative_url }}">Trustworthy AI</a><small>DATA 405/603</small>
-          <small class="home-next-course">Next semester: <a href="{{ '/spring27' | relative_url }}">Generative AI</a> · Spring 2027</small>
-        </div>
-      </div>
+      <header><h2 id="current-teaching">Teaching and Talks</h2><a href="{{ '/talks/' | relative_url }}">View all →</a></header>
+      <dl class="home-teaching">
+        <dt>Fall 2026</dt><dd><a href="{{ '/fall26' | relative_url }}">Trustworthy AI</a> <small>DATA 405/603</small></dd>
+        <dt>Spring 2027</dt><dd><a href="{{ '/spring27' | relative_url }}">Generative AI</a> <small>DATA 446/622</small></dd>
+        <dt>Tutorials</dt><dd><a href="https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/">CVPR</a> · <a href="https://llm-understand.github.io/">AAAI</a> · <a href="https://mltrust.github.io/">KDD</a></dd>
+      </dl>
     </section>
   </div>
   {% if page.news and site.announcements.enabled %}
@@ -33,7 +32,7 @@
       <h2 id="home-news-title">News</h2>
       <ul>
         {% assign recent_news = site.news | sort: 'date' | reverse %}
-        {% for item in recent_news limit: 4 %}
+        {% for item in recent_news limit: 6 %}
           <li>
             <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%b %-d, %Y' }}</time>
             {% if item.inline %}
