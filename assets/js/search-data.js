@@ -719,24 +719,28 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-be-an-area-chair-for-aaai-2027",
           title: 'Invited to be an Area Chair for AAAI 2027.',
           description: "",
-          section: "News",},{id: "news-invited-to-be-an-area-chair-for-acml-2026",
-          title: 'Invited to be an Area Chair for ACML 2026.',
+          section: "News",},{id: "news-acml-2026-area-chair-invitation",
+          title: 'ACML 2026 Area Chair invitation',
           description: "",
-          section: "News",},{id: "news-invited-to-be-an-area-chair-for-iclr-2027",
-          title: 'Invited to be an Area Chair for ICLR 2027.',
+          section: "News",handler: () => {
+              window.location.href = "/news/acml26-ac/";
+            },},{id: "news-iclr-2027-area-chair-invitation",
+          title: 'ICLR 2027 Area Chair invitation',
           description: "",
-          section: "News",},{id: "news-five-papers-accepted-at-neurips-2026",
+          section: "News",handler: () => {
+              window.location.href = "/news/iclr27-ac/";
+            },},{id: "news-five-papers-accepted-at-neurips-2026",
           title: 'Five papers accepted at NeurIPS 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/neurips26/";
-            },},{id: "news-invited-to-serve-as-icml-2027-area-chair",
-          title: 'Invited to serve as ICML 2027 Area Chair',
+            },},{id: "news-icml-2027-area-chair-invitation",
+          title: 'ICML 2027 Area Chair invitation',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/icml27-ac/";
-            },},{id: "news-invited-to-serve-on-the-ijcai-2027-senior-program-committee",
-          title: 'Invited to serve on the IJCAI 2027 Senior Program Committee',
+            },},{id: "news-ijcai-2027-senior-program-committee-invitation",
+          title: 'IJCAI 2027 Senior Program Committee invitation',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ijcai27-spc/";
