@@ -1,14 +1,11 @@
 <div class="home-highlights">
   <div class="home-main">
-    <section aria-labelledby="selected-awards">
-      <header><h2 id="selected-awards">Selected Awards</h2><a href="{{ '/awards/' | relative_url }}">All awards →</a></header>
-      <ul class="home-awards">
-        <li><span>2026</span><div>ICDM 10-Year Highest Impact Paper Award</div></li>
-        <li><span>2026</span><div>Gemini Academic Research Award</div></li>
-        <li><span>2025</span><div>Google DeepMind Research Gift</div></li>
-        <li><span>2025</span><div>NVIDIA Academic Grant Program</div></li>
-        <li><span>2025</span><div>Amazon Research Award</div></li>
-      </ul>
+    <section aria-labelledby="current-teaching">
+      <header><h2 id="current-teaching">Teaching and Talks</h2><a href="{{ '/talks/' | relative_url }}">View all →</a></header>
+      <dl class="home-teaching">
+        <dt>Fall 2026</dt><dd><a href="{{ '/fall26' | relative_url }}">Trustworthy AI</a> <small>DATA 405/603</small></dd>
+        <dt>Tutorials</dt><dd><a href="https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/">CVPR</a> · <a href="https://llm-understand.github.io/">AAAI</a> · <a href="https://mltrust.github.io/">KDD</a></dd>
+      </dl>
     </section>
     <section aria-labelledby="service">
       <header><h2 id="service">Service</h2><a href="{{ '/service/' | relative_url }}">All service →</a></header>
@@ -18,12 +15,15 @@
         <dt>Associate Editor</dt><dd>IEEE Transactions on Neural Networks and Learning Systems</dd>
       </dl>
     </section>
-    <section aria-labelledby="current-teaching">
-      <header><h2 id="current-teaching">Teaching and Talks</h2><a href="{{ '/talks/' | relative_url }}">View all →</a></header>
-      <dl class="home-teaching">
-        <dt>Fall 2026</dt><dd><a href="{{ '/fall26' | relative_url }}">Trustworthy AI</a> <small>DATA 405/603</small></dd>
-        <dt>Tutorials</dt><dd><a href="https://ucsb-mlsec.github.io/cvpr2025-tutorial-Evaluating-Large-Multi-modal-Models-Challenges-and-Methods/">CVPR</a> · <a href="https://llm-understand.github.io/">AAAI</a> · <a href="https://mltrust.github.io/">KDD</a></dd>
-      </dl>
+    <section aria-labelledby="selected-awards">
+      <header><h2 id="selected-awards">Selected Awards</h2><a href="{{ '/awards/' | relative_url }}">All awards →</a></header>
+      <ul class="home-awards">
+        <li><span>2026</span><div>ICDM 10-Year Highest Impact Paper Award</div></li>
+        <li><span>2026</span><div>Gemini Academic Research Award</div></li>
+        <li><span>2025</span><div>Google DeepMind Research Gift</div></li>
+        <li><span>2025</span><div>NVIDIA Academic Grant Program</div></li>
+        <li><span>2025</span><div>Amazon Research Award</div></li>
+      </ul>
     </section>
   </div>
   {% if page.news and site.announcements.enabled %}
