@@ -16,6 +16,7 @@ nav: true
   - Outcomes: [FlexUMM](https://arxiv.org/abs/2610.22682), [Lluna](https://arxiv.org/abs/2610.20526), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784)
 - [Zhi Yang](https://ruayz.github.io/). PhD student.
   - Topics: Foundation model personalization.
+  - Outcomes: [Streaming Tax](https://arxiv.org/abs/2611.33474)
 - [Yinyi Luo](https://scholar.google.com/citations?hl=en&user=oJz2IEgAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
   - Topics: LLM understanding and evaluation, unified multimodal models.
   - Outcomes: [FlexUMM](https://arxiv.org/abs/2610.22682), [Lluna](https://arxiv.org/abs/2610.20526), [KnowledgeSmith (ICLR'26)](https://www.arxiv.org/abs/2510.02392), [CVPR'26](https://arxiv.org/abs/2603.24965), [AgentArk (NeurIPS'26)](https://www.arxiv.org/abs/2602.03955), [LatentUMM](https://arxiv.org/abs/2605.17766), [TorchUMM (NeurIPS'26)](https://arxiv.org/abs/2604.10784), [UniPath (NeurIPS'26)](https://arxiv.org/abs/2605.11400)

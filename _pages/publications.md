@@ -30,6 +30,7 @@ nav: true
 
 #### Recent Preprints
 
+- Streaming Tax: Can Streaming VLMs Replace Their Offline Parents? Zhi Yang, Junzhou Chen, Jindong Wang. [[arxiv](https://arxiv.org/abs/2611.33474)]
 - UniMore: Fine-Grained Supervision for Unified Understanding and Generation. Haoyue Bai, Yinyi Luo, Yicheng He, Qingsong Wen, Sharon Li, Jindong Wang. [[arxiv](https://arxiv.org/abs/2611.08996)]
 - FlexUMM: Flexible Representation Learning for Unified Multimodal Models. Yinyi Luo, Haoyue Bai, Yi Ge, Nilton Cesar Rojas Vales, Marios Savvides, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.22682)]
 - Lluna: Collaborative Unimodal Models for Missing-Modality Inference. Haoyue Bai, Yinyi Luo, Heqing Huang, Xiaoyuan Yi, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2610.20526)]
